@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 src/data/
+reports/week2/clean_history.csv
+reports/week2/clean_tracks.csv
