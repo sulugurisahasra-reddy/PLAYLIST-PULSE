@@ -1,0 +1,8 @@
+feature,minimum_allowed,maximum_allowed,invalid_count
+danceability,0,1,0
+energy,0,1,0
+speechiness,0,1,0
+acousticness,0,1,0
+instrumentalness,0,1,0
+liveness,0,1,0
+valence,0,1,0

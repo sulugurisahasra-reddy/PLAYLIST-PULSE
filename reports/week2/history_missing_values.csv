@@ -1,0 +1,13 @@
+column,missing_count,missing_percent
+spotify_track_uri,0,0.0
+ts,0,0.0
+platform,0,0.0
+ms_played,0,0.0
+track_name,0,0.0
+artist_name,0,0.0
+album_name,0,0.0
+reason_start,143,0.09618294938624516
+reason_end,117,0.07869514040692786
+shuffle,0,0.0
+skipped,0,0.0
+track_id,0,0.0

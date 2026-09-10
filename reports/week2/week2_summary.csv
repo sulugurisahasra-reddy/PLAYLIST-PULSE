@@ -1,0 +1,15 @@
+metric,value
+tracks_original_rows,114000
+tracks_clean_rows,89741
+history_original_rows,149860
+history_clean_rows,148675
+unique_track_ids,89741
+history_unique_track_ids,16527
+matched_track_ids,1710
+model_rows,1710
+model_columns,25
+missing_track_cells,3
+missing_history_cells,260
+skip_30s_events,6042
+stream_count_min,1
+stream_count_max,203
