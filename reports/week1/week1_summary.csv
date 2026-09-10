@@ -1,0 +1,15 @@
+metric,value
+tracks_rows,89741.0
+tracks_columns,21.0
+history_rows,149860.0
+history_columns,13.0
+unique_track_ids,89741.0
+history_unique_track_ids,16527.0
+matched_track_ids,1710.0
+tracks_with_history,1710.0
+skip_30s_events,6043.0
+non_skip_30s_events,143817.0
+mean_stream_count,17.745029239766083
+median_stream_count,3.0
+mean_log_stream_count,1.9819572304435171
+median_log_stream_count,1.3862943611198906
