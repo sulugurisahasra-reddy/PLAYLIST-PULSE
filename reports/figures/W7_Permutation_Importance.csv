@@ -1,0 +1,16 @@
+Feature,Importance
+numeric__ms_played,0.001966666666666672
+categorical__reason_end_endplay,0.0006333333333333302
+categorical__album_name_Save Rock And Roll,0.0004999999999999449
+categorical__artist_name_Fall Out Boy,0.0004999999999999449
+categorical__platform_windows,0.0004666666666666375
+categorical__platform_mac,0.0004666666666666375
+categorical__artist_name_Jorge Drexler,0.00043333333333333
+categorical__artist_name_ABBA,0.0004333333333332856
+categorical__album_name_Arrival,0.0003666666666666263
+categorical__artist_name_Joaquín Sabina,0.0003666666666666263
+categorical__album_name_=,0.00029999999999996696
+categorical__reason_start_appload,0.00023333333333330764
+categorical__artist_name_Cage The Elephant,0.00023333333333330764
+categorical__reason_end_backbtn,0.00023333333333330764
+categorical__album_name_The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings,0.00023333333333330764

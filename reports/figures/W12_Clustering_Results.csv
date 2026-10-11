@@ -1,0 +1,4 @@
+Model,Clusters,Silhouette,Davies_Bouldin
+K-Means,2,0.2288,1.7743
+Agglomerative,2,0.1513,2.1407
+DBSCAN,11,0.0412,0.9839

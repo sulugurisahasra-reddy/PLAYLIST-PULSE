@@ -1,0 +1,16 @@
+Feature,Importance
+categorical__reason_end_trackdone,0.17697056
+categorical__artist_name_infrequent_sklearn,0.03585674
+categorical__reason_end_logout,0.028240394
+categorical__reason_start_appload,0.02044227
+categorical__reason_end_endplay,0.018457044
+categorical__reason_end_unexpected-exit-while-paused,0.015806774
+categorical__reason_end_fwdbtn,0.013665385
+categorical__album_name_infrequent_sklearn,0.013065663
+categorical__platform_iOS,0.012393086
+categorical__artist_name_Juanes,0.01216101
+categorical__platform_windows,0.011883872
+categorical__artist_name_AWOLNATION,0.011616363
+categorical__artist_name_David Bisbal,0.010787193
+categorical__platform_cast to device,0.010646325
+categorical__artist_name_Andrew Lloyd Webber,0.010282621
