@@ -1,0 +1,11 @@
+Slide,Title,Content
+1,PlaylistPulse,Spotify listening behavior prediction system
+2,Problem Statement,Predict expected stream count and analyze listening behavior
+3,Dataset,Spotify track metadata and listening history
+4,Data Preprocessing,"Cleaning, matching, encoding and feature preprocessing"
+5,Regression Models,"OLS, Gradient Descent, Ridge and Lasso"
+6,Tree Ensemble Models,"Decision Tree, Random Forest and Gradient Boosting"
+7,Final Model Selection,Lasso Regression with alpha = 0.0001
+8,Model Performance,"MAE = 0.679296, RMSE = 1.018544, R2 = 0.478816"
+9,Explainability,Feature importance and SHAP analysis
+10,Conclusion,Lasso provides the best final held-out test performance

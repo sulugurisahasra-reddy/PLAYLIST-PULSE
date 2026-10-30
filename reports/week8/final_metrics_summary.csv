@@ -1,0 +1,8 @@
+Metric,Value
+Final Model,Lasso Regression
+Regularization,"L1 regularization, alpha = 0.0001"
+MAE,0.679296
+RMSE,1.018544
+R2,0.478816
+Training Strategy,"80/20 train-test split, random_state=42"
+Evaluation Type,Held-out test set

@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/suluguri sahasra/Documents/PlayList Pulse/mlruns/5/models/m-7384d4586a70405aaa87de13897e3c79/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.2
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.16.0
+model_id: m-7384d4586a70405aaa87de13897e3c79
+model_size_bytes: 32130
+model_uuid: m-7384d4586a70405aaa87de13897e3c79
+prompts: null
+run_id: 20a9fd48c8de4c3bb8ff568862a1fb7c
+utc_time_created: '2026-10-06 15:02:45.519880'

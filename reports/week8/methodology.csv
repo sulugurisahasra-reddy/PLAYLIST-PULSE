@@ -1,0 +1,9 @@
+Stage,Method
+Week 1,Dataset understanding and exploratory data analysis
+Week 2,Data cleaning and preprocessing
+Week 3,OLS regression and manual Gradient Descent
+Week 4,"Ridge, Lasso and Logistic Regression"
+Week 5,K-fold cross-validation and one-standard-error model selection
+Week 6,"Decision Tree, Random Forest and Gradient Boosting"
+Week 7,Final evaluation and SHAP explainability
+Week 8,"Final integration, reporting and presentation outputs"

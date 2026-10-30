@@ -1,0 +1,6 @@
+Dataset,Rows,Description
+Spotify Track Dataset,114000,Track-level Spotify audio and metadata
+Spotify Listening History,149860,User listening history
+Matched Regression Dataset,1710,Tracks matched with listening history
+Final Training Dataset,1368,80% training split
+Final Test Dataset,342,20% held-out test split

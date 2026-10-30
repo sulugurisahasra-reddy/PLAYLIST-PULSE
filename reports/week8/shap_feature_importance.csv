@@ -1,0 +1,3053 @@
+feature,mean_abs_shap
+categorical__artists_The Beatles,0.440356029372188
+categorical__artists_The Strokes,0.12526209580769496
+categorical__artists_Pink Floyd,0.120172887191002
+numeric__popularity,0.10918431931107411
+categorical__artists_Arctic Monkeys,0.09189675695198216
+categorical__artists_John Mayer,0.08470576714687475
+categorical__track_genre_alt-rock,0.08180564845950843
+categorical__track_genre_british,0.0703916444356162
+categorical__artists_Led Zeppelin,0.053753791059681685
+categorical__track_genre_country,0.0510513094316909
+categorical__album_name_Native,0.03847581923483774
+categorical__artists_The Rolling Stones,0.037833261087886184
+categorical__artists_Billy Joel,0.03679037149755034
+categorical__track_genre_blues,0.03643240084486064
+numeric__acousticness,0.034240773510940084
+categorical__artists_The Fray,0.028038799578819808
+categorical__album_name_Backspacer,0.027548070525503118
+categorical__album_name_Is This It,0.026997468492870744
+categorical__artists_The Who,0.025956381375861648
+categorical__artists_The White Stripes,0.02585431072320964
+categorical__album_name_The Wall,0.0252530455420766
+categorical__album_name_The New Abnormal,0.024882942145769343
+categorical__track_name_If I Lose Myself - Alesso vs OneRepublic,0.024689589511274233
+categorical__track_name_At Last,0.024574037021163102
+numeric__danceability,0.024472107434011636
+categorical__artists_Boys Like Girls,0.023380338431408423
+numeric__loudness,0.022126690203641306
+categorical__album_name_Point Of Know Return (Expanded Edition),0.02160980658750968
+categorical__album_name_Meddle,0.021157314458770733
+categorical__track_genre_dance,0.021058625558573695
+categorical__artists_Sam Smith,0.020967726164851545
+categorical__track_genre_garage,0.02073615290925848
+numeric__energy,0.020705954285602467
+categorical__track_name_Midnight City,0.020670484875246788
+categorical__album_name_1 (Remastered),0.02058239044002953
+numeric__mode,0.020459109563527363
+categorical__album_name_The Car,0.02041301655727284
+categorical__artists_Bob Marley & The Wailers,0.02027676175490503
+categorical__artists_The Black Keys,0.019877581091432776
+categorical__artists_Jimi Hendrix,0.019532665160593998
+numeric__valence,0.019514396435820154
+categorical__album_name_The Turtles Present The Battle of the Bands,0.017827701775809432
+categorical__track_name_Almost (Sweet Music),0.01765399095905694
+categorical__track_name_Take A Chance On Me,0.017020374161273187
+categorical__track_genre_edm,0.014567234306363985
+categorical__artists_Cold War Kids,0.014524209931927068
+categorical__artists_Red Hot Chili Peppers,0.014502406887530614
+numeric__speechiness,0.014444522758838913
+categorical__track_genre_singer-songwriter,0.014256282869663246
+categorical__artists_Billie Eilish,0.013884697531839772
+numeric__instrumentalness,0.013051551567239989
+categorical__artists_Jarabe De Palo,0.012943826902654155
+categorical__artists_Elvis Presley,0.012862375779828562
+categorical__album_name_Hozier,0.012645121926665812
+categorical__artists_3 Doors Down,0.011925667193994445
+categorical__artists_David Bisbal,0.011708907529895986
+categorical__artists_Elton John,0.011635716777778363
+categorical__artists_Neil Diamond,0.011487603446079683
+categorical__track_genre_rock,0.011188182147440958
+categorical__artists_OneRepublic;Alesso,0.011033797681868688
+categorical__album_name_Are You Experienced,0.010974561245622898
+categorical__artists_Yusuf / Cat Stevens,0.009879778616302652
+categorical__album_name_Angles,0.00986125492740818
+numeric__Unnamed: 0,0.009747374805768028
+categorical__explicit_False,0.009558167546580065
+categorical__album_name_Happier Than Ever,0.009432213996060845
+categorical__artists_Stevie Ray Vaughan,0.009298481634287228
+categorical__track_name_Beyond the Sea,0.009236350451682503
+categorical__album_name_Suck It and See,0.009197354268616785
+categorical__album_name_Physical Graffiti (Deluxe Edition),0.008933913542937716
+categorical__artists_The Velvet Underground,0.008673542143786073
+categorical__track_genre_hip-hop,0.008619763593403324
+categorical__track_genre_ambient,0.008502572310165513
+categorical__artists_Adele,0.008423306988770916
+categorical__track_genre_electro,0.00819366902267912
+"categorical__album_name_Whatever People Say I Am, That's What I'm Not",0.008027635897327015
+categorical__track_genre_reggae,0.007873915922413434
+categorical__album_name_American Idiot,0.0074245527673113855
+categorical__artists_The Lumineers,0.007402135255986563
+categorical__album_name_Let It Bleed,0.007145251618018315
+categorical__track_genre_swedish,0.006805911993026558
+categorical__album_name_Abbey Road (Remastered),0.00658495061556589
+categorical__artists_Frank Ocean,0.00646152170029753
+categorical__album_name_Recovery,0.006384681132305687
+categorical__artists_Ramones,0.006311307455140639
+categorical__album_name_The Piper at the Gates of Dawn,0.006305426257795732
+categorical__album_name_Highway to Hell,0.006105641439802151
+categorical__album_name_Arrival,0.005957986649749164
+categorical__track_genre_piano,0.0058773439752312934
+categorical__album_name_Dream Your Life Away,0.005725570215244224
+categorical__artists_Bruno Mars,0.0054102838268152344
+categorical__album_name_Hold My Home,0.0053892596864510865
+categorical__album_name_Tea For The Tillerman (Remastered 2020),0.005314791645706853
+categorical__artists_Cage The Elephant,0.005301624407024823
+categorical__artists_Guns N' Roses,0.0052886607581354725
+categorical__album_name_Cleopatra,0.005284006794119133
+categorical__track_genre_folk,0.00518559531148357
+categorical__artists_Fall Out Boy,0.005164559041793
+categorical__album_name_The Stranger,0.005151321563424237
+categorical__artists_Iggy Pop,0.00500563325653987
+categorical__album_name_Comedown Machine,0.004969422743178047
+categorical__artists_Nicholas Hooper,0.004967954972923216
+categorical__album_name_Loaded: Re-Loaded 45th Anniversary Edition,0.004922931227478091
+categorical__track_genre_opera,0.004849624801591699
+numeric__tempo,0.0048097648256488525
+categorical__album_name_Enema Of The State,0.004721748076464432
+numeric__liveness,0.004678835327679482
+categorical__track_name_No Surprises,0.0046673346712204945
+categorical__track_genre_disco,0.004584688627163829
+categorical__album_name_Super Trouper,0.004578464755019813
+categorical__album_name_Sweet Caroline,0.004513509637854867
+categorical__track_genre_hardcore,0.004492062324920177
+categorical__album_name_First Impressions Of Earth,0.004482636677241927
+categorical__artists_J. Cole,0.004425274775977189
+categorical__album_name_Need You Now,0.004366527228822247
+categorical__album_name_The Doors,0.004296439851063949
+categorical__track_genre_latino,0.004282190567798626
+categorical__artists_Chuck Berry,0.004228424915786038
+categorical__artists_Blind Melon,0.004215387716030858
+categorical__artists_American Authors,0.004198236641685532
+categorical__artists_Gary Clark Jr.;Junkie XL,0.003975072876595647
+categorical__artists_Ed Sheeran,0.003969821197785561
+categorical__album_name_Continuum,0.00396890836714408
+categorical__artists_Radiohead,0.003965339185624896
+categorical__track_genre_indie-pop,0.003680074916755703
+categorical__album_name_Beatles For Sale (Remastered),0.003567560970105428
+categorical__track_name_NDA,0.003519179390682007
+categorical__track_name_Your Power,0.003465146458916953
+categorical__album_name_In The Lonely Hour,0.0034133911080453222
+categorical__artists_AC/DC,0.0033609686725699557
+categorical__artists_Creedence Clearwater Revival,0.0033594055807462065
+categorical__album_name_The Dark Side of the Moon,0.0032307804843452674
+categorical__artists_N.W.A.,0.003215734459309474
+categorical__track_genre_spanish,0.0030816633443084486
+categorical__album_name_Blood Sugar Sex Magik (Deluxe Edition),0.0030623722243440237
+categorical__track_name_No Rain,0.0029944910750080186
+categorical__track_genre_pop,0.002955287720807952
+categorical__album_name_Both Sides of the Sky,0.002838337991177414
+categorical__track_genre_j-rock,0.0028353081090663735
+categorical__artists_Eminem;Dina Rae,0.002753672623371256
+categorical__artists_Anuel AA,0.0027323215481097896
+categorical__album_name_Just Lose It,0.0026839047708315817
+categorical__album_name_Turn Blue,0.002639811916358046
+categorical__track_genre_rock-n-roll,0.0026212305391827397
+categorical__album_name_Ten,0.0026072421463337256
+categorical__artists_MGMT,0.0025702939211441687
+"categorical__album_name_Wasteland, Baby!",0.002338556203069024
+numeric__time_signature,0.0023360144026133975
+categorical__artists_OneRepublic,0.0022828973114583026
+categorical__track_name_The Wind Cries Mary,0.002276010300895415
+categorical__artists_Calvin Harris,0.00220873214410322
+categorical__album_name_Tommy,0.0022086538661728514
+categorical__artists_Paolo Nutini,0.002187671570034653
+categorical__artists_Robin Schulz;Francesco Yates,0.0021481003470610683
+categorical__artists_X Ambassadors,0.0021298921496598526
+categorical__track_name_Rocky Raccoon - Remastered 2009,0.002116203312934414
+categorical__album_name_Keep It Hid,0.002081495832947697
+categorical__album_name_Please Please Me (Remastered),0.002064007063559792
+categorical__track_genre_latin,0.0020573498209513377
+categorical__album_name_El Camino,0.0020235542851375714
+categorical__album_name_The Search for Everything,0.0020009035873384457
+categorical__artists_J Balvin;Sech,0.0019775973275075664
+categorical__track_name_Last Train Home,0.0019732196101828916
+categorical__album_name_Motion,0.0019709345958797237
+categorical__track_genre_bluegrass,0.0019416704018967452
+categorical__artists_Moriarty,0.001916073410027562
+categorical__album_name_Sticky Fingers (Remastered),0.0018962899344046819
+categorical__album_name_The Velvet Underground (45th Anniversary),0.0018961540371228677
+categorical__artists_Sebastian Ingrosso;Tommy Trash;John Martin,0.0018561757491566383
+numeric__duration_ms,0.0018133876587587733
+categorical__album_name_These Streets,0.0018106843493834054
+categorical__album_name_Help! (Remastered),0.0018090916452137662
+categorical__album_name_Too Low For Zero,0.0017906821205459077
+categorical__album_name_Future Nostalgia,0.0017123732145972075
+categorical__album_name_Led Zeppelin II (1994 Remaster),0.0016988431473049462
+categorical__track_genre_r-n-b,0.0016651352521674476
+categorical__track_name_Just Breathe,0.0016075105886903048
+categorical__artists_Los Ronaldos,0.001576834987126512
+categorical__artists_One Direction,0.001564047876561945
+categorical__album_name_Goodbye Yellow Brick Road (Remastered),0.0015476557969560053
+categorical__track_genre_funk,0.0015426556741327039
+categorical__artists_Greta Van Fleet,0.001541755928582747
+categorical__track_name_Gasolina,0.0015375872497926902
+categorical__album_name_÷ (Deluxe),0.0014896731580884691
+categorical__artists_The Mamas & The Papas,0.001483276765207566
+categorical__track_name_Summer,0.0014783674686177466
+categorical__album_name_Lust For Life,0.001466989457726406
+categorical__album_name_Favourite Worst Nightmare,0.001456435283003072
+"categorical__album_name_thank u, next",0.0014543805630227715
+categorical__track_name_Represent,0.0014100845707731983
+categorical__track_genre_afrobeat,0.0013707223609006967
+categorical__track_genre_guitar,0.0013443317294395951
+categorical__album_name_Straight Outta Compton,0.0013085507204809099
+categorical__artists_The Kinks,0.0013024225225847382
+categorical__artists_The Weeknd,0.0012948339565835277
+categorical__album_name_Voyage,0.0012932384773502476
+categorical__track_name_Heaven,0.001279139959768434
+"categorical__album_name_Cover Sessions, Vol. 2",0.0012538195339404346
+categorical__artists_Anitta;J Balvin,0.0012432618474280113
+categorical__track_name_I'm Not The Only One,0.0012429511077050469
+categorical__album_name_Oracular Spectacular,0.001218608121061865
+categorical__album_name_Abba,0.0012043177906737403
+categorical__album_name_Wish You Were Here,0.001203812199347161
+categorical__track_name_First,0.0011937228518338861
+categorical__track_name_Bring the Boys Back Home,0.001169460062670508
+categorical__album_name_B61,0.0011682485793210748
+categorical__album_name_Barrio Fino (Bonus Track Version),0.001150890372278561
+categorical__album_name_Texas Flood (Legacy Edition),0.0011457972315628564
+categorical__track_genre_power-pop,0.0011175840822426884
+categorical__artists_Eric Prydz,0.0011085939454604234
+categorical__album_name_Who's Next (Deluxe Edition),0.0011013825618104334
+categorical__album_name_Sgt. Pepper's Lonely Hearts Club Band (Remastered),0.0010980285001593324
+categorical__artists_The Offspring,0.0010943765811721492
+categorical__track_genre_techno,0.0010807113149573313
+categorical__album_name_Animals,0.0010764011502497279
+categorical__track_name_Need You Now,0.0010588447089608423
+categorical__track_genre_punk-rock,0.0010483776825971002
+categorical__album_name_Ultimate Santana,0.001021583040820078
+categorical__album_name_Ready to Die (The Remaster),0.001020591079005374
+categorical__album_name_YHLQMDLG,0.001017890824400275
+categorical__track_genre_synth-pop,0.0009984559631492657
+categorical__track_name_Sweet Child O' Mine,0.00097746747590225
+categorical__album_name_Houses of the Holy (Remaster),0.000920175429251894
+"categorical__album_name_Eat, Pray, Love",0.0009143834034482115
+categorical__artists_Twisted Sister,0.0009083965655333736
+categorical__artists_My Chemical Romance,0.0008672763194575686
+categorical__track_genre_electronic,0.0008555404944515223
+categorical__track_name_Dust in the Wind,0.0008351790496440496
+categorical__track_name_Sweet Caroline,0.0008304551051341115
+categorical__album_name_EL ÚLTIMO TOUR DEL MUNDO,0.0007931745239136697
+categorical__album_name_The Ultimate Bobby Darin,0.0007833593179893601
+categorical__track_name_Una Nota,0.0007798159106171542
+categorical__track_name_Slow Dancing in a Burning Room,0.0007677283157842766
+categorical__track_genre_german,0.0007533087184416665
+categorical__album_name_Sola (Remix),0.0007402526055974592
+categorical__album_name_The Power,0.000718091666327247
+categorical__track_name_Vienna,0.0007154106827876926
+categorical__artists_Wolfmother,0.0007103385307604677
+categorical__artists_Neil Young,0.0006620836312441973
+categorical__track_genre_hard-rock,0.0006374654727412741
+categorical__artists_Camilo;Shawn Mendes,0.0006189457336449044
+categorical__artists_Royal Blood,0.0005857717681010729
+categorical__artists_Green Day,0.0005673841722059542
+categorical__track_name_No Reply - Remastered 2009,0.0005491970535381109
+categorical__track_name_Because - Remastered 2009,0.0005440302945696561
+categorical__album_name_The Black Parade,0.0005362257837290346
+categorical__track_name_Elenore,0.0005328715402071282
+categorical__artists_Keane,0.0005291213480164758
+categorical__artists_Dua Lipa,0.0005287212255402353
+categorical__artists_Santana;Rob Thomas,0.0005203291826854844
+categorical__artists_Calvin Harris;Justin Timberlake;Halsey;Pharrell Williams,0.0005016926456479771
+categorical__artists_Daddy Yankee,0.0004996194659942872
+categorical__album_name_Blonde,0.0004984516286303537
+categorical__track_genre_grunge,0.00047662165150227546
+categorical__album_name_Human (Deluxe),0.00047240865523972165
+categorical__track_genre_chill,0.0004429841543180326
+categorical__album_name_By the Way (Deluxe Edition),0.0004429341391311993
+categorical__artists_Bobby Darin,0.00044138102348324526
+categorical__artists_ABBA,0.00041988774676161416
+categorical__track_name_Hallelujah,0.0004181023486597319
+categorical__album_name_VHS,0.0004154174709702793
+categorical__artists_The Everly Brothers,0.0004067172597370542
+categorical__artists_The Cars,0.0003823049234800662
+categorical__track_genre_acoustic,0.00035001611555771127
+categorical__track_name_Self Control,0.00034328208771151805
+categorical__artists_Dan Auerbach,0.00034239571411153537
+"categorical__album_name_Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",0.0003387450552785223
+categorical__album_name_2001,0.00033555044891490405
+categorical__track_name_Perfect,0.0003267246859865917
+categorical__track_name_Alive,0.0002934926027001441
+categorical__track_name_Closer,0.0002901816542084907
+categorical__artists_Doja Cat,0.00028518162353435085
+categorical__album_name_Revolver (Remastered),0.00028343023509401494
+categorical__album_name_Nothing but the Beat (Ultimate Edition),0.0002624022745781293
+categorical__track_name_Heartbeat,0.00024465530340962466
+categorical__track_name_Sugar (feat. Francesco Yates),0.00024237471138688433
+categorical__track_genre_dancehall,0.00023709615958600154
+categorical__album_name_Exile On Main Street (2010 Re-Mastered),0.00022169663794789884
+categorical__track_genre_progressive-house,0.00019151028183431287
+categorical__artists_Aoife O'Donovan,0.00018418020770852303
+categorical__artists_Stephan Moccio,0.00018391631020583975
+categorical__album_name_Tell Me I'm Pretty,0.0001783456242397591
+categorical__album_name_The Beatles (Remastered),0.00017738458268192053
+categorical__track_genre_emo,0.00017620196463027148
+categorical__track_genre_indie,0.00016891116006243994
+categorical__artists_Loquillo,0.00015664369654465324
+categorical__album_name_Supernatural (Remastered),0.00013469292905647824
+categorical__track_name_Foxey Lady,0.00013446139277174294
+categorical__album_name_Fifty Shades Freed (Original Motion Picture Soundtrack),0.00012745664719192312
+categorical__track_name_Jolene,0.00012420540314173203
+categorical__album_name_Entren Los Que Quieran,0.00012252812421529352
+categorical__track_name_One of These Days,0.00012053611623282636
+categorical__track_name_Blue Suede Shoes,0.00011953207851581301
+categorical__track_name_Ten Years Gone - Remaster,0.00011499329836656347
+categorical__artists_Bad Bunny,0.00011226545489078125
+"categorical__track_name_Lose Yourself - From ""8 Mile"" Soundtrack",0.00010755618538193379
+categorical__track_name_Sunrise,9.435712447965215e-05
+categorical__artists_The Cure,9.287057933907823e-05
+categorical__track_name_Superman,9.232864504018717e-05
+categorical__artists_The Beach Boys,8.267302893334734e-05
+"categorical__track_name_Heartbroken, In Disrepair",7.736558655928065e-05
+categorical__album_name_Wolfmother,7.662426219796187e-05
+categorical__album_name_The Very Best of The Everly Brothers,7.476806949061774e-05
+categorical__artists_Soda Stereo,7.371301376433986e-05
+categorical__track_name_The Power,7.035394130432161e-05
+categorical__artists_Pet Shop Boys,6.909591737598503e-05
+categorical__track_name_Wake up Little Susie,6.664909624067483e-05
+categorical__album_name_Heroes De Los 80,6.547992803482168e-05
+categorical__album_name_Gee Whiz But This Is a Lonesome Town,6.453144781661927e-05
+categorical__artists_Anuel AA;Daddy Yankee;Zion & Lennox;Farruko;Wisin,6.402829061236031e-05
+categorical__track_name_Vagabond,6.375803842385589e-05
+numeric__key,6.370777689751163e-05
+categorical__album_name_Opus,6.297545261351718e-05
+categorical__album_name_Golden Hour,5.99859308039501e-05
+categorical__album_name_4 Canciones,5.9040575259224435e-05
+categorical__album_name_KESI (Remix),5.6922043822497526e-05
+categorical__album_name_Real Hasta la Muerte,5.539036653215878e-05
+categorical__album_name_2014 Forest Hills Drive,5.4877829575920135e-05
+categorical__album_name_Blind Melon,5.3547380193223665e-05
+categorical__album_name_Come Together,5.3195156511925024e-05
+categorical__artists_Lady A,5.151259064731702e-05
+categorical__artists_Ariana Grande,5.0035953440336174e-05
+categorical__track_name_Eight Days A Week - Remastered 2009,4.95398773495922e-05
+categorical__album_name_Downtown,4.698134653287021e-05
+categorical__album_name_30,4.36061643467874e-05
+categorical__album_name_Reload (Vocal Version / Radio Edit),3.5825259023443614e-05
+categorical__track_name_Something Just Like This,3.195337269001964e-05
+categorical__track_name_No Role Modelz,3.0897602819555516e-05
+categorical__album_name_Fracture,3.0705420420492e-05
+categorical__track_name_No Puedo Vivir Sin Ti,3.0493979037011165e-05
+categorical__track_name_Piano Man,3.0444316751733805e-05
+categorical__artists_Dieter Huber,2.739835135893759e-05
+categorical__track_name_Opus,2.5447418494335406e-05
+categorical__track_name_Lose Somebody,2.310748797990694e-05
+categorical__track_name_Reload - Radio Edit,2.2080262836274936e-05
+categorical__track_name_Quiere Beber,2.135563806990854e-05
+categorical__track_name_Wild Life,2.1219271875798728e-05
+categorical__track_name_KESI - Remix,1.9558940201967982e-05
+categorical__track_name_Jimmy,1.9411179291359094e-05
+categorical__track_name_Come Together,1.89996593411152e-05
+categorical__album_name_FOUR (Deluxe),1.8268441782609737e-05
+categorical__album_name_F.A.M.E.,1.804646567032243e-05
+categorical__track_name_Downtown,1.6981370410573225e-05
+categorical__artists_The Chainsmokers;Coldplay,1.6722155822094245e-05
+categorical__track_name_Fracture,1.6530016673993853e-05
+categorical__album_name_Stay Hungry,1.4519592829547376e-05
+categorical__artists_Ludovico Einaudi,1.3137717273036564e-05
+categorical__track_name_Cadillac solitario,1.1007222573493407e-05
+categorical__track_name_B61,8.165894237967724e-06
+categorical__artists_Kygo;OneRepublic,6.042478750158694e-08
+categorical__track_name_Smooth (feat. Rob Thomas),2.416023723307868e-09
+"categorical__track_name_Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",7.78404492655134e-10
+categorical__track_name_Sola (Remix),6.38486347202033e-10
+categorical__artists_A Tribe Called Quest,2.837288273952215e-10
+categorical__explicit_True,1.4245884822948972e-17
+categorical__artists_Dean Martin,0.0
+categorical__artists_Deep Chills,0.0
+categorical__artists_Deep Purple,0.0
+categorical__artists_Deorro;Chris Brown,0.0
+categorical__artists_Derek & The Dominos,0.0
+categorical__artists_Dexys Midnight Runners,0.0
+categorical__artists_Dillon Francis;Kygo;James Hersey,0.0
+categorical__artists_Dimitri Vegas & Like Mike;Ne-Yo,0.0
+categorical__artists_Dire Straits,0.0
+categorical__artists_Dirty South;Alesso;Ruben Haze,0.0
+categorical__artists_Django Reinhardt,0.0
+categorical__artists_Dolly Parton;Kenny Rogers,0.0
+categorical__artists_Dominic Fike,0.0
+categorical__artists_Don McLean,0.0
+categorical__artists_Don Omar;Lucenzo,0.0
+categorical__artists_Don Omar;Tego Calderón,0.0
+categorical__artists_Donovan Woods,0.0
+categorical__artists_Dr. Dre;Snoop Dogg,0.0
+categorical__artists_Drake;Wizkid;Kyla,0.0
+categorical__artists_Duke Dumont;Shaun Ross,0.0
+categorical__artists_Duke Dumont;Zak Abel,0.0
+categorical__artists_Dusty Springfield,0.0
+categorical__artists_Eagles,0.0
+"categorical__artists_Earth, Wind & Fire",0.0
+"categorical__artists_Earth, Wind & Fire;The Emotions",0.0
+categorical__artists_Eddie Vedder,0.0
+categorical__artists_El Coyote Y Su Banda Tierra Santa,0.0
+categorical__artists_El Michels Affair;Piya Malik,0.0
+categorical__artists_El Último De La Fila,0.0
+categorical__artists_Elle King;Miranda Lambert,0.0
+categorical__artists_Elton John;Britney Spears,0.0
+categorical__artists_Elton John;Charlie Puth,0.0
+categorical__artists_Elton John;Dua Lipa;PNAU,0.0
+categorical__artists_Elton John;Kiki Dee,0.0
+categorical__artists_Elton John;Stevie Wonder,0.0
+categorical__artists_Emanuel Nord,0.0
+categorical__artists_Eminem,0.0
+categorical__artists_Eminem;Juice WRLD,0.0
+categorical__artists_Empire of the Sun,0.0
+categorical__artists_Enrique Iglesias;Descemer Bueno;Zion & Lennox,0.0
+categorical__artists_Enrique Iglesias;Usher,0.0
+categorical__artists_Enrique Urquijo y Los problemas,0.0
+categorical__artists_Eric Carmen,0.0
+categorical__artists_Eric Clapton,0.0
+categorical__artists_Eric Clapton;B.B. King,0.0
+categorical__artists_Etta James,0.0
+categorical__artists_Europe,0.0
+categorical__artists_Everybody Loves an Outlaw,0.0
+categorical__artists_FRENSHIP;Emily Warren,0.0
+categorical__artists_Faces,0.0
+categorical__artists_Fairport Convention,0.0
+categorical__artists_Farruko,0.0
+categorical__artists_Felix Trapp,0.0
+categorical__artists_Fernando Delgadillo,0.0
+categorical__artists_Fetty Wap;Monty,0.0
+categorical__artists_Fetty Wap;Remy Boyz,0.0
+categorical__artists_Fifth Harmony;Kid Ink,0.0
+categorical__artists_Finlep,0.0
+categorical__artists_Fiona Apple,0.0
+categorical__artists_Florida Georgia Line,0.0
+categorical__artists_Foo Fighters,0.0
+categorical__artists_Foster The People,0.0
+categorical__artists_Fountains Of Wayne,0.0
+categorical__artists_Frankie Valli & The Four Seasons,0.0
+categorical__artists_Free,0.0
+categorical__artists_Free Nationals;Daniel Caesar;Unknown Mortal Orchestra,0.0
+categorical__artists_French Montana;Swae Lee,0.0
+categorical__artists_Frédéric Chopin;Daniel Barenboim,0.0
+categorical__artists_Funkadelic,0.0
+categorical__artists_Gabrielle Aplin,0.0
+categorical__artists_Gabríel Ólafs,0.0
+"categorical__artists_Gaetano Donizetti;Luciano Pavarotti;Orchestra of the Royal Opera House, Covent Garden;Richard Bonynge",0.0
+categorical__artists_Galantis,0.0
+categorical__artists_George Harrison,0.0
+categorical__artists_Gesaffelstein;The Weeknd,0.0
+categorical__artists_Giacomo Puccini;Kiri Te Kanawa;London Philharmonic Orchestra;Sir John Pritchard,0.0
+categorical__artists_Giacomo Puccini;Luciano Pavarotti;John Alldis Choir;Wandsworth School Boys Choir;London Philharmonic Orchestra;Zubin Mehta,0.0
+categorical__artists_Giacomo Puccini;Luciano Pavarotti;Tom Krause;Pier Francesco Poli;Piero de Palma;John Alldis Choir;London Philharmonic Orchestra;Zubin Mehta,0.0
+categorical__artists_Ginuwine,0.0
+categorical__artists_Gioachino Rossini;Peter Mattei;Royal Stockholm Philharmonic Orchestra;Lawrence Renes,0.0
+categorical__artists_Girma Bèyènè;Akalé Wubé,0.0
+categorical__artists_Giuseppe Verdi;Ileana Cotrubas;Plácido Domingo;Chor der Bayerischen Staatsoper München;Bavarian State Orchestra;Carlos Kleiber,0.0
+categorical__artists_Glee Cast;Darren Criss,0.0
+categorical__artists_Good Charlotte,0.0
+categorical__artists_Gorillaz,0.0
+categorical__artists_Grateful Dead,0.0
+categorical__artists_Gregory Alan Isakov,0.0
+categorical__artists_Grizzly Bear,0.0
+categorical__artists_Hailee Steinfeld;BloodPop®,0.0
+categorical__artists_Hank Williams;Drifting Cowboys,0.0
+categorical__artists_Harry Styles,0.0
+categorical__artists_Heartless Bastards,0.0
+categorical__artists_Henrik Janson,0.0
+categorical__artists_Hot Chelle Rae,0.0
+categorical__artists_Hot Chocolate,0.0
+categorical__artists_Howie Day,0.0
+categorical__artists_Hozier,0.0
+categorical__artists_Hugh Jackman;Keala Settle;Zac Efron;Zendaya;The Greatest Showman Ensemble,0.0
+categorical__artists_Hugh Jackman;The Greatest Showman Ensemble,0.0
+categorical__artists_Hugo,0.0
+categorical__artists_IAmChino;Pitbull;Yandel;El Chacal,0.0
+categorical__artists_ILLENIUM;X Ambassadors,0.0
+categorical__artists_Ice Cube,0.0
+categorical__artists_Icona Pop,0.0
+categorical__artists_Idina Menzel;Michael Bublé,0.0
+categorical__artists_Imagine Dragons,0.0
+categorical__artists_Incubus,0.0
+categorical__artists_Intocable,0.0
+categorical__artists_Ivan Bielsa,0.0
+categorical__artists_J Balvin,0.0
+categorical__artists_J Balvin;Bad Bunny,0.0
+categorical__artists_J Balvin;Dua Lipa;Bad Bunny;Tainy,0.0
+categorical__artists_J Balvin;Maria Becerra,0.0
+categorical__artists_J Balvin;Pharrell Williams;BIA;Sky Rompiendo,0.0
+categorical__artists_J Balvin;Skrillex,0.0
+categorical__artists_J Balvin;Willy William,0.0
+categorical__artists_J.J. Cale,0.0
+categorical__artists_Jack Ü;Skrillex;Diplo;Justin Bieber,0.0
+categorical__artists_Jacques Offenbach;Nemanja Radulović;Camille Thomas;Double Sens,0.0
+categorical__artists_James Blunt,0.0
+categorical__artists_Jason Mraz,0.0
+categorical__artists_Jason Mraz;Colbie Caillat,0.0
+categorical__artists_Jay Wheeler;DJ Nelson;Myke Towers,0.0
+categorical__artists_Jeff Beck,0.0
+categorical__artists_Jeff Buckley,0.0
+categorical__artists_Jefferson Airplane,0.0
+categorical__artists_Jenevieve,0.0
+categorical__artists_Jerry Douglas;Paul Simon;Mumford & Sons,0.0
+categorical__artists_Jerry Lee Lewis,0.0
+categorical__artists_Jet,0.0
+categorical__artists_Jhayco;Anuel AA,0.0
+categorical__artists_Jhayco;J Balvin;Bad Bunny,0.0
+categorical__artists_Jimmy Eat World,0.0
+categorical__artists_Joey Montana,0.0
+categorical__artists_Johann Sebastian Bach;Lang Lang,0.0
+categorical__artists_Johann Sebastian Bach;Yo-Yo Ma,0.0
+categorical__artists_John A. Nilson,0.0
+categorical__artists_John Frusciante,0.0
+categorical__artists_John Legend,0.0
+categorical__artists_John Lennon,0.0
+categorical__artists_John Mayall & The Bluesbreakers;Eric Clapton,0.0
+categorical__artists_John Mayer;Katy Perry,0.0
+categorical__artists_Johnny Cash,0.0
+categorical__artists_Jonas Brothers,0.0
+categorical__artists_Jorge Drexler,0.0
+categorical__artists_Jorge Drexler;Sebastián Prada,0.0
+categorical__artists_Josh Groban;Andrea Bocelli,0.0
+categorical__artists_Josh Turner,0.0
+categorical__artists_Joshua Hyslop,0.0
+categorical__artists_Joshua Radin,0.0
+categorical__artists_José González,0.0
+categorical__artists_Journey,0.0
+categorical__artists_Joy Division,0.0
+categorical__artists_Joy Williams,0.0
+categorical__artists_Judas Priest,0.0
+categorical__artists_Julia Michaels,0.0
+categorical__artists_Julia Michaels;Niall Horan,0.0
+categorical__artists_Justin Bieber,0.0
+categorical__artists_Justin Quiles;Chimbala;Zion & Lennox,0.0
+categorical__artists_Jóhann Jóhannsson,0.0
+categorical__artists_KALEO,0.0
+categorical__artists_KAROL G,0.0
+categorical__artists_KONGOS,0.0
+categorical__artists_KVSH;Schillist;Ray X Ben,0.0
+categorical__artists_Kansas,0.0
+categorical__artists_Kantboll,0.0
+categorical__artists_Kaspar Mann,0.0
+categorical__artists_Kate Bush,0.0
+categorical__artists_Keala Settle;The Greatest Showman Ensemble,0.0
+categorical__artists_Keala Settle;The Greatest Showman Ensemble;Alan Walker,0.0
+categorical__artists_Kelsea Ballerini;LANY,0.0
+categorical__artists_Kendrick Lamar,0.0
+categorical__artists_Kendrick Lamar;SZA,0.0
+categorical__artists_Kenny Rogers,0.0
+categorical__artists_Kid Koala,0.0
+categorical__artists_Kina Grannis,0.0
+categorical__artists_Kokoroko,0.0
+categorical__artists_Kygo;Ellie Goulding,0.0
+categorical__artists_Kygo;Imagine Dragons,0.0
+categorical__artists_Kygo;Sasha Alex Sloan,0.0
+categorical__artists_Kygo;Selena Gomez,0.0
+categorical__artists_Kygo;Whitney Houston,0.0
+categorical__artists_La Oreja de Van Gogh,0.0
+categorical__artists_La Quinta Estacion,0.0
+categorical__artists_Las Lagrimas,0.0
+categorical__artists_Laura Branigan,0.0
+categorical__artists_Lauv;LANY,0.0
+categorical__artists_Lemon Jelly,0.0
+categorical__artists_Leo Brouwer;Zsófia Boros,0.0
+categorical__artists_Leon Bridges,0.0
+categorical__artists_Leon Bridges;John Mayer,0.0
+categorical__artists_Lifehouse,0.0
+categorical__artists_Lil Nas X;Jack Harlow,0.0
+categorical__artists_Lilly Wood and The Prick;Robin Schulz,0.0
+categorical__artists_Linkin Park,0.0
+categorical__artists_Little Richard,0.0
+categorical__artists_Lizzo,0.0
+categorical__artists_Lord Huron,0.0
+categorical__artists_Lord Huron;Phoebe Bridgers,0.0
+categorical__artists_Loren Allred,0.0
+categorical__artists_Los Amigos Invisibles,0.0
+categorical__artists_Los Tecolines,0.0
+categorical__artists_Lou Reed,0.0
+categorical__artists_Loud Luxury;Brando,0.0
+categorical__artists_Ludovico Einaudi;Amsterdam Sinfonietta;PMCE Parco Della Musica Contempornea Ensemble,0.0
+categorical__artists_Ludovico Einaudi;Daniel Hope;I Virtuosi Italiani,0.0
+categorical__artists_Ludovico Einaudi;Franco Feruglio;Mauro Loguercio;Gabriele Baffero;Antonello Leofreddi;Marco Decimo,0.0
+categorical__artists_Ludovico Einaudi;Gautier Capuçon;Jerome Ducros,0.0
+categorical__artists_Ludovico Einaudi;Robert Ziegler;Royal Philharmonic Orchestra,0.0
+categorical__artists_Ludwig van Beethoven;Nelly Kokinos,0.0
+categorical__artists_Luis Fonsi;Daddy Yankee,0.0
+categorical__artists_Luis Fonsi;Daddy Yankee;Justin Bieber,0.0
+categorical__artists_Lykke Li;The Magician,0.0
+categorical__artists_Lynyrd Skynyrd,0.0
+categorical__artists_Léo Delibes;Razumovsky Symphony Orchestra;Andrew Mogrelia,0.0
+categorical__artists_Léo Delibes;Richard Kapp,0.0
+categorical__artists_Léo Delibes;Slovak Philharmonic;Ondrej Lenard,0.0
+categorical__artists_Léo Delibes;Slovak Radio Symphony Orchestra;Andrew Mogrelia,0.0
+categorical__artists_M83,0.0
+categorical__artists_MAGIC!,0.0
+categorical__artists_MEDUZA;Goodboys,0.0
+categorical__artists_MOGUAI;Cheat Codes,0.0
+categorical__artists_Madison Beer,0.0
+categorical__artists_Maluma,0.0
+categorical__artists_Maluma;Nego do Borel,0.0
+categorical__artists_Marc Anthony,0.0
+categorical__artists_Marc Streitenfeld,0.0
+categorical__artists_Marcel Depuis,0.0
+categorical__artists_Marshmello;Jonas Brothers,0.0
+categorical__artists_Marta Jobim,0.0
+categorical__artists_Martin Garrix;MOTi,0.0
+categorical__artists_Martin Garrix;Usher,0.0
+categorical__artists_Marvin Gaye;Tammi Terrell,0.0
+categorical__artists_Matchbox Twenty,0.0
+categorical__artists_Matt Hartke,0.0
+categorical__artists_Matt Nathanson,0.0
+categorical__artists_Matt Simons;Deepend,0.0
+categorical__artists_Max Manie,0.0
+categorical__artists_Max Richter;Louisa Fuller;Natalia Bonner;John Metcalfe;Philip Sheppard;Chris Worsey,0.0
+categorical__artists_Meadows,0.0
+categorical__artists_Megan Davies,0.0
+categorical__artists_Melendi,0.0
+categorical__artists_Michael Bublé,0.0
+categorical__artists_Michael Kiwanuka,0.0
+categorical__artists_Mike Oldfield,0.0
+categorical__artists_Miles Davis;John Coltrane;Bill Evans,0.0
+categorical__artists_Miles Davis;John Coltrane;Cannonball Adderley;Bill Evans,0.0
+categorical__artists_Mipso,0.0
+categorical__artists_Modern Talking,0.0
+categorical__artists_Mora;Bad Bunny;Sech,0.0
+categorical__artists_Morcheeba,0.0
+categorical__artists_Mott The Hoople,0.0
+categorical__artists_Mr. Probz;Robin Schulz,0.0
+categorical__artists_Muddy Waters,0.0
+categorical__artists_Mumford & Sons,0.0
+categorical__artists_Mungo Jerry,0.0
+categorical__artists_NEIL FRANCES,0.0
+categorical__artists_Nas,0.0
+categorical__artists_Nas;AZ;Olu Dara,0.0
+categorical__artists_Nat King Cole,0.0
+categorical__artists_Natti Natasha;Ozuna,0.0
+categorical__artists_Nelson Gomes,0.0
+categorical__artists_Nena,0.0
+categorical__artists_Niall Horan,0.0
+categorical__artists_Nick Drake,0.0
+categorical__artists_Nickelback,0.0
+categorical__artists_Nicky Jam,0.0
+categorical__artists_Nine Inch Nails,0.0
+categorical__artists_Nirvana,0.0
+categorical__artists_Nora En Pure,0.0
+categorical__artists_Oasis,0.0
+categorical__artists_Of Monsters and Men,0.0
+categorical__artists_Oliver Cheatham,0.0
+categorical__artists_Oliver Tree,0.0
+categorical__artists_Omah Lay;Disclosure;Justin Bieber,0.0
+categorical__artists_OneRepublic;Santigold,0.0
+categorical__artists_OneRepublic;Seeb,0.0
+categorical__artists_Owl City,0.0
+categorical__artists_Ozuna,0.0
+categorical__artists_Ozuna;Doja Cat;Sia,0.0
+categorical__artists_Ozuna;Feid,0.0
+categorical__artists_Ozzy Osbourne,0.0
+categorical__artists_Pablo Alborán;David Bisbal;Antonio Carmona;Jesse & Joy;Juanes;Malú;Vanesa Martín;India Martinez;Antonio Orozco;Niña Pastori;Laura Pausini;Abel Pintos;Rozalén;Shakira;Tommy Torres;Manuel Carrasco;Pablo López,0.0
+categorical__artists_Panteon Rococo;Dub Inc,0.0
+categorical__artists_Paramore,0.0
+categorical__artists_Patrick Doyle,0.0
+categorical__artists_Pearl Jam,0.0
+categorical__artists_Pedro Capó;Farruko,0.0
+categorical__artists_Pereza,0.0
+categorical__artists_Peter Bjorn and John,0.0
+categorical__artists_Peter Cat Recording Co.,0.0
+categorical__artists_Peter Sarstedt,0.0
+categorical__artists_Pixies,0.0
+categorical__artists_Plain White T's,0.0
+categorical__artists_Polo & Pan,0.0
+categorical__artists_Poolside,0.0
+categorical__artists_Purple Disco Machine,0.0
+categorical__artists_Purple Disco Machine;Joe Killington;Duane Harden,0.0
+categorical__artists_Purple Disco Machine;Sophie and the Giants,0.0
+categorical__artists_Pyramid,0.0
+categorical__artists_Quantic;Flowering Inferno,0.0
+categorical__artists_Queen,0.0
+categorical__artists_R. City;Adam Levine,0.0
+categorical__artists_R.B James,0.0
+categorical__artists_R.E.M.,0.0
+categorical__artists_Rachel Portman,0.0
+categorical__artists_Rage Against The Machine,0.0
+categorical__artists_Ramin Djawadi,0.0
+categorical__artists_Rascal Flatts,0.0
+categorical__artists_Rauw Alejandro,0.0
+categorical__artists_Ray Charles,0.0
+categorical__artists_Ray LaMontagne,0.0
+categorical__artists_Ray LaMontagne;Sierra Ferrell,0.0
+categorical__artists_Rendezvous At Two,0.0
+categorical__artists_Richard Thompson,0.0
+categorical__artists_Rixton,0.0
+categorical__artists_Robert Lowe,0.0
+categorical__artists_Robin Schulz;Ilsey,0.0
+categorical__artists_Robin Schulz;Jasmine Thompson,0.0
+categorical__artists_Ron Gallo,0.0
+categorical__artists_Route 94;Jess Glynne,0.0
+categorical__artists_Roy Orbison,0.0
+categorical__artists_Roy Woods;Drake,0.0
+categorical__artists_Rush,0.0
+categorical__artists_Rusted Root,0.0
+categorical__artists_Sam Tinnesz;Yacht Money,0.0
+categorical__artists_Sander van Doorn;Martin Garrix;DVBBS;Aleesia,0.0
+categorical__artists_Santana,0.0
+categorical__artists_Savoy Brown,0.0
+categorical__artists_Scorpions,0.0
+categorical__artists_Sean Paul,0.0
+categorical__artists_Sebastian Yatra;Daddy Yankee;Natti Natasha;Jonas Brothers,0.0
+categorical__artists_Secondhand Serenade,0.0
+categorical__artists_Seinabo Sey;Kygo,0.0
+categorical__artists_Selena Gomez;Rauw Alejandro,0.0
+categorical__artists_Shakin' Stevens,0.0
+categorical__artists_Shania Twain,0.0
+categorical__artists_Shannon & The Clams,0.0
+categorical__artists_Shawn Mendes;Camila Cabello,0.0
+categorical__artists_Sia,0.0
+categorical__artists_Sidonie;Joan Manuel Serrat;Leiva;Vetusta Morla;Ivan Ferreiro;Loquillo;Zahara;Dani Martín;Albert Pla;Mikel (Izal);Noni (Lori Meyers);Santi Balmes;Xoel López;Anni B Sweet;Jeanette;Carlos Sadness;Nina (Morgan);Juan Alberto (Niños Mutantes);Miri Ros;Javiera Mena;Jorge Martí (La Habitación Roja);Rafa Val (Viva Suecia);Marc (Dorian);Alondra Bentley;Abraham Boba;Carlangas (Novedades Carminha);La Bien Querida;Martí Perarnau IV (Mucho);Nita (Fuel Fandango);Shuarma (Elefantes),0.0
+categorical__artists_Simon & Garfunkel,0.0
+categorical__artists_Simple Plan,0.0
+categorical__artists_Simple Plan;Natasha Bedingfield,0.0
+categorical__artists_Simple Plan;Sean Paul,0.0
+categorical__artists_Simple Plan;State Champs;We The Kings,0.0
+categorical__artists_Simply Red,0.0
+categorical__artists_Sky Ferreira,0.0
+"categorical__artists_Slaughter Beach, Dog",0.0
+categorical__artists_Snoop Dogg;Pharrell Williams,0.0
+categorical__artists_Snoop Dogg;Wiz Khalifa;Bruno Mars,0.0
+categorical__artists_Spiritualized,0.0
+categorical__artists_Sports,0.0
+categorical__artists_Stavroz,0.0
+categorical__artists_Steely Dan,0.0
+categorical__artists_Stephen Sondheim,0.0
+categorical__artists_Stone Temple Pilots,0.0
+categorical__artists_Sublime,0.0
+categorical__artists_Sufjan Stevens,0.0
+categorical__artists_Sum 41,0.0
+categorical__artists_Supertramp,0.0
+categorical__artists_Survivor,0.0
+categorical__artists_Syd Barrett,0.0
+categorical__artists_Sylvester,0.0
+categorical__artists_Tainy;Bad Bunny;Julieta Venegas,0.0
+categorical__artists_Tash Sultana,0.0
+categorical__artists_Tatiana,0.0
+categorical__artists_Taylor Swift,0.0
+categorical__artists_Tears For Fears,0.0
+categorical__artists_Tez Cadey,0.0
+categorical__artists_The Animals,0.0
+categorical__artists_The Backseat Lovers,0.0
+categorical__artists_The Band,0.0
+categorical__artists_The Black Crowes,0.0
+categorical__artists_The Byrds,0.0
+categorical__artists_The Chainsmokers;Phoebe Ryan,0.0
+categorical__artists_The Champs,0.0
+categorical__artists_The Chemical Brothers,0.0
+categorical__artists_The Clash,0.0
+categorical__artists_The Dave Brubeck Quartet,0.0
+categorical__artists_The Doors,0.0
+categorical__artists_The Fratellis,0.0
+categorical__artists_The Head And The Heart,0.0
+categorical__artists_The Hives,0.0
+categorical__artists_The Hollies,0.0
+categorical__artists_The Human Beinz,0.0
+categorical__artists_The J. Geils Band,0.0
+categorical__artists_The Jon Spencer Blues Explosion,0.0
+categorical__artists_The Killers,0.0
+categorical__artists_The Libertines,0.0
+categorical__artists_The Monkees,0.0
+categorical__artists_The Neighbourhood,0.0
+categorical__artists_The Notorious B.I.G.,0.0
+categorical__artists_The Real Thing,0.0
+categorical__artists_The Runaways,0.0
+categorical__artists_The Script,0.0
+categorical__artists_The Script;will.i.am,0.0
+categorical__artists_The Smiths,0.0
+categorical__artists_The Stooges,0.0
+categorical__artists_The Struts,0.0
+categorical__artists_The Temptations,0.0
+categorical__artists_The Turtles,0.0
+categorical__artists_The Velvet Underground;Nico,0.0
+categorical__artists_The Verve,0.0
+categorical__artists_The Weeknd;Daft Punk,0.0
+categorical__artists_The Zombies,0.0
+categorical__artists_Thin Lizzy,0.0
+categorical__artists_Third Eye Blind,0.0
+categorical__artists_Thirty Seconds To Mars,0.0
+categorical__artists_Tim Buckley,0.0
+categorical__artists_Tiësto,0.0
+categorical__artists_Tiësto;KAROL G,0.0
+categorical__artists_Toledo Heights,0.0
+categorical__artists_Tom Odell,0.0
+categorical__artists_Tom Petty,0.0
+categorical__artists_Topic;A7S,0.0
+categorical__artists_Tracy Chapman,0.0
+categorical__artists_Traffic,0.0
+categorical__artists_Train,0.0
+categorical__artists_Travis Scott,0.0
+categorical__artists_Twenty One Pilots,0.0
+categorical__artists_Two Feet,0.0
+categorical__artists_Ty Dolla $ign;The Weeknd;Wiz Khalifa;Mustard,0.0
+categorical__artists_Unknown Mortal Orchestra,0.0
+categorical__artists_Valerio Castilla,0.0
+categorical__artists_Vampire Weekend,0.0
+categorical__artists_Van Halen,0.0
+categorical__artists_Van Morrison,0.0
+categorical__artists_Vance Joy,0.0
+categorical__artists_Vandenberg,0.0
+categorical__artists_Vigiland,0.0
+categorical__artists_Vincenzo Bellini;Cecilia Bartoli;International Chamber Vocalists;Orchestra La Scintilla;Giovanni Antonini,0.0
+categorical__artists_Violent Femmes,0.0
+categorical__artists_WEISS;Purple Disco Machine,0.0
+categorical__artists_Watchhouse,0.0
+categorical__artists_Weezer,0.0
+categorical__artists_Wham!,0.0
+categorical__artists_Whitefield Brothers,0.0
+categorical__artists_William Fitzsimmons,0.0
+categorical__artists_Wisin & Yandel;Chris Brown;T-Pain,0.0
+categorical__artists_Wolf Alice,0.0
+categorical__artists_Wu-Tang Clan;RZA;Ghostface Killah;Raekwon;Inspectah Deck,0.0
+categorical__artists_X Ambassadors;Erich Lee,0.0
+categorical__artists_Xavier Rudd,0.0
+categorical__artists_Young the Giant,0.0
+categorical__artists_ZAYN,0.0
+categorical__artists_ZZ Top,0.0
+categorical__artists_Zac Efron;Zendaya,0.0
+categorical__artists_Zedd;Jon Bellion,0.0
+categorical__artists_Zedd;Kehlani,0.0
+categorical__artists_Zero 7;Mozez,0.0
+categorical__artists_Zion & Lennox,0.0
+categorical__artists_Ziv Zaifman;Hugh Jackman;Michelle Williams,0.0
+categorical__artists_blink-182,0.0
+categorical__artists_filous;James Hersey,0.0
+categorical__artists_mooncycles,0.0
+categorical__album_name_#3 Deluxe Version,0.0
+categorical__album_name_(What's The Story) Morning Glory? [Remastered],0.0
+categorical__album_name_+ Es + (El Concierto / En Directo En El Estadio Vicente Calderón / 2017),0.0
+categorical__album_name_12 Grandes exitos Vol. 1,0.0
+categorical__album_name_13 Reasons Why (Season 2),0.0
+categorical__album_name_14 Grandes Exitos,0.0
+categorical__album_name_18 Months,0.0
+categorical__album_name_1989,0.0
+categorical__album_name_1989 (Deluxe),0.0
+categorical__album_name_21st Century Breakdown,0.0
+categorical__album_name_3.0,0.0
+categorical__album_name_40 Greatest Hits,0.0
+categorical__album_name_54+1,0.0
+categorical__album_name_679 (feat. Remy Boyz),0.0
+categorical__album_name_=,0.0
+categorical__album_name_A Beautiful Lie,0.0
+categorical__album_name_A Few Reasons,0.0
+categorical__album_name_A Hard Day's Night (Remastered),0.0
+categorical__album_name_A Head Full of Dreams,0.0
+categorical__album_name_A Momentary Lapse of Reason,0.0
+categorical__album_name_A Naked Twist in My Story,0.0
+categorical__album_name_A Night At The Opera (2011 Remaster),0.0
+categorical__album_name_A Room With A View,0.0
+categorical__album_name_A Thousand Years,0.0
+categorical__album_name_A Town Called Paradise,0.0
+categorical__album_name_A Winter Romance,0.0
+categorical__album_name_A/B,0.0
+categorical__album_name_AM,0.0
+categorical__album_name_ASCEND,0.0
+categorical__album_name_ASTROWORLD,0.0
+categorical__album_name_AVĪCI (01),0.0
+categorical__album_name_About Damn Time,0.0
+categorical__album_name_Abraxas,0.0
+categorical__album_name_Acoustic Sessions,0.0
+categorical__album_name_Adrienne,0.0
+categorical__album_name_After All,0.0
+categorical__album_name_After Hours,0.0
+categorical__album_name_Aftermath,0.0
+categorical__album_name_Algo para Cantar,0.0
+"categorical__album_name_All Killer, No Filler",0.0
+categorical__album_name_All That We Needed,0.0
+categorical__album_name_All The Leaves Are Brown The Golden Era Collection,0.0
+categorical__album_name_All The Young Dudes (Expanded Edition),0.0
+categorical__album_name_All Things Must Pass (Remastered 2014),0.0
+categorical__album_name_All We Know,0.0
+categorical__album_name_All the Right Reasons,0.0
+categorical__album_name_American Beauty (2013 Remaster),0.0
+categorical__album_name_American IV: The Man Comes Around,0.0
+categorical__album_name_American Pie,0.0
+categorical__album_name_American Wedding,0.0
+categorical__album_name_Americana,0.0
+categorical__album_name_Amor (Spanish Edition / Remastered),0.0
+categorical__album_name_Amore (Remastered),0.0
+categorical__album_name_An Innocent Man,0.0
+categorical__album_name_Andas En Mi Cabeza,0.0
+categorical__album_name_Andrea Bocelli Spotify Sessions (Live),0.0
+categorical__album_name_Andy Y Lucas,0.0
+categorical__album_name_Ani Kuni,0.0
+categorical__album_name_Animales,0.0
+categorical__album_name_Appetite For Destruction,0.0
+categorical__album_name_Aretha Now,0.0
+categorical__album_name_Arrow,0.0
+categorical__album_name_At Last!,0.0
+categorical__album_name_Attention (with Justin Bieber) [Disclosure Remix],0.0
+categorical__album_name_Audioslave,0.0
+categorical__album_name_Automatic For The People,0.0
+categorical__album_name_Aviones,0.0
+categorical__album_name_Away From The Sun,0.0
+categorical__album_name_Axis: Bold As Love,0.0
+categorical__album_name_Ay Mi Dios,0.0
+categorical__album_name_BICHOTA,0.0
+categorical__album_name_BRIGHTSIDE,0.0
+categorical__album_name_Baby Driver (Music from the Motion Picture),0.0
+"categorical__album_name_Bach: Cello Suites Nos. 1, 5 & 6",0.0
+categorical__album_name_Back In Black,0.0
+categorical__album_name_Back to Bedlam,0.0
+categorical__album_name_Bad Blood,0.0
+categorical__album_name_Baptized (Deluxe Version),0.0
+categorical__album_name_Barrio Fino En Directo,0.0
+categorical__album_name_Battle Studies,0.0
+categorical__album_name_Be Someone,0.0
+categorical__album_name_Beach & Berries,0.0
+categorical__album_name_Beauty Behind The Madness,0.0
+categorical__album_name_Beethoven Greatest Hits,0.0
+categorical__album_name_Bellini: Norma,0.0
+categorical__album_name_Berry Is On Top,0.0
+categorical__album_name_Best Of Blondie,0.0
+categorical__album_name_Big Calm,0.0
+categorical__album_name_Birdie,0.0
+categorical__album_name_Bismillah,0.0
+categorical__album_name_Black Ice,0.0
+categorical__album_name_Black Panther The Album Music From And Inspired By,0.0
+categorical__album_name_Bleed American,0.0
+categorical__album_name_Blizzard Of Ozz (40th Anniversary Expanded Edition),0.0
+categorical__album_name_Blow By Blow,0.0
+categorical__album_name_Blowin' Your Mind!,0.0
+categorical__album_name_Blue Hawaii,0.0
+categorical__album_name_Bluesbreakers,0.0
+categorical__album_name_Blurryface,0.0
+categorical__album_name_Bobby Darin,0.0
+categorical__album_name_Bocelli (Remastered),0.0
+categorical__album_name_Body,0.0
+categorical__album_name_Bohemian Rhapsody (The Original Soundtrack),0.0
+categorical__album_name_Bookends,0.0
+categorical__album_name_Born In The U.S.A.,0.0
+categorical__album_name_Born To Be Yours,0.0
+categorical__album_name_Boston,0.0
+categorical__album_name_Boys Like Girls,0.0
+categorical__album_name_Breakfast In America (Deluxe Edition),0.0
+categorical__album_name_Breaking Me,0.0
+categorical__album_name_Bridges (Deluxe),0.0
+categorical__album_name_British Steel,0.0
+categorical__album_name_Broadcast,0.0
+categorical__album_name_Brothers (Deluxe Remastered Anniversary Edition),0.0
+categorical__album_name_Bryter Layter,0.0
+categorical__album_name_Buddha And The Chocolate Box,0.0
+categorical__album_name_Buddy Holly,0.0
+categorical__album_name_Buffalo Springfield,0.0
+categorical__album_name_CNCO,0.0
+categorical__album_name_Cadiz,0.0
+categorical__album_name_Cage The Elephant (Expanded Edition),0.0
+categorical__album_name_Californication,0.0
+categorical__album_name_Californication (Deluxe Edition),0.0
+categorical__album_name_Call Me Irresponsible,0.0
+categorical__album_name_Callaita,0.0
+categorical__album_name_Calle 13 (Explicit Version),0.0
+categorical__album_name_Calma (Remix),0.0
+categorical__album_name_Can't Buy A Thrill,0.0
+categorical__album_name_Canciones De Amor,0.0
+categorical__album_name_Carrie & Lowell,0.0
+categorical__album_name_Cars 3 (Original Motion Picture Soundtrack),0.0
+categorical__album_name_Carte Blanche,0.0
+categorical__album_name_Children Of The World,0.0
+categorical__album_name_China,0.0
+categorical__album_name_Chopin: Nocturnes,0.0
+categorical__album_name_Christmas (Deluxe Special Edition),0.0
+categorical__album_name_Church Of Scars,0.0
+categorical__album_name_City Of Dreams,0.0
+categorical__album_name_Classical Music 101,0.0
+categorical__album_name_Cold Spring Harbor,0.0
+categorical__album_name_Colores,0.0
+categorical__album_name_Combat Rock (Remastered),0.0
+categorical__album_name_Come With Me,0.0
+categorical__album_name_Coming Home (Deluxe),0.0
+categorical__album_name_Commodores,0.0
+categorical__album_name_Como una Huella Digital,0.0
+categorical__album_name_Company,0.0
+categorical__album_name_Concrete and Gold,0.0
+"categorical__album_name_Correlations B-Sides (on Yamaha Upright, 1981)",0.0
+categorical__album_name_Costello Music,0.0
+"categorical__album_name_Cover Sessions, Vol. 3",0.0
+"categorical__album_name_Cover Sessions, Vol. 4",0.0
+categorical__album_name_Criminal,0.0
+"categorical__album_name_Crosby, Stills & Nash",0.0
+categorical__album_name_Crying,0.0
+categorical__album_name_DAMN.,0.0
+categorical__album_name_Dark Horse,0.0
+categorical__album_name_Dawn EP,0.0
+categorical__album_name_Day & Age (Bonus Tracks),0.0
+categorical__album_name_Deepest Purple: The Very Best of Deep Purple,0.0
+categorical__album_name_Deja Vu,0.0
+categorical__album_name_Delibes: Best of French Ballet,0.0
+categorical__album_name_Delibes: Coppelia (Complete Ballet) / La Source Suites,0.0
+categorical__album_name_Delibes: Sylvia (Complete Ballet) / Saint-Saens: Henry Viii,0.0
+categorical__album_name_Demon Days,0.0
+categorical__album_name_Departure,0.0
+categorical__album_name_Depende,0.0
+categorical__album_name_Desde Que No Nos Vemos,0.0
+categorical__album_name_Desde la Isla del Olvido,0.0
+categorical__album_name_Despacito Feat. Justin Bieber (Remix),0.0
+categorical__album_name_Diamonds (Deluxe),0.0
+categorical__album_name_Die Wanderbiene,0.0
+categorical__album_name_Dig Your Roots,0.0
+categorical__album_name_Dire Straits,0.0
+categorical__album_name_Dirty Dancing: Anniversary Edition,0.0
+categorical__album_name_Dirty Deeds Done Dirt Cheap,0.0
+categorical__album_name_Disco Essentials,0.0
+categorical__album_name_Disintegration (Deluxe Edition),0.0
+categorical__album_name_Disraeli Gears,0.0
+categorical__album_name_Divenire,0.0
+categorical__album_name_Divenire (Deluxe Edition),0.0
+categorical__album_name_Division,0.0
+categorical__album_name_Djangologie Vol9 / 1939 - 1940,0.0
+categorical__album_name_Dog With a Rope (Quantic Presenta Flowering Inferno),0.0
+categorical__album_name_Don't Be Shy,0.0
+categorical__album_name_Don't Look Back into the Sun,0.0
+categorical__album_name_Don't Look Down (feat. Usher),0.0
+categorical__album_name_Don't Play That Song (Mono),0.0
+categorical__album_name_Don't Say Goodnight,0.0
+categorical__album_name_Don't Shoot Me I'm Only The Piano Player,0.0
+categorical__album_name_Don't Start Now,0.0
+categorical__album_name_Dookie,0.0
+categorical__album_name_Dorothy,0.0
+categorical__album_name_Down To Earth,0.0
+categorical__album_name_Dream Your Life Away (Special Edition),0.0
+categorical__album_name_Drunk (And I Don't Wanna Go Home),0.0
+categorical__album_name_Dua Lipa (Deluxe),0.0
+categorical__album_name_Dura,0.0
+categorical__album_name_Dusty In Memphis,0.0
+categorical__album_name_Eagles (2013 Remaster),0.0
+categorical__album_name_Earthology,0.0
+categorical__album_name_Eco,0.0
+categorical__album_name_Edges Run,0.0
+categorical__album_name_Ege Bamyasi (Remastered),0.0
+"categorical__album_name_El Romántico, El Príncipe",0.0
+categorical__album_name_El Último Ska,0.0
+categorical__album_name_Elegia,0.0
+categorical__album_name_Elements (Deluxe),0.0
+categorical__album_name_Elephant,0.0
+categorical__album_name_Eliminator,0.0
+categorical__album_name_Elton John,0.0
+categorical__album_name_Elvis (Fool),0.0
+categorical__album_name_Elvis 30 #1 Hits,0.0
+categorical__album_name_Elvis' Christmas Album,0.0
+categorical__album_name_Elvis' Golden Records,0.0
+"categorical__album_name_Elvis' Golden Records, Vol. 3",0.0
+categorical__album_name_Emotions,0.0
+categorical__album_name_En Otra Parte,0.0
+categorical__album_name_Energía,0.0
+categorical__album_name_English Rain,0.0
+categorical__album_name_Enoc,0.0
+categorical__album_name_Enter The Wu-Tang (36 Chambers) [Expanded Edition],0.0
+categorical__album_name_Euphoria,0.0
+categorical__album_name_Even In The Quietest Moments,0.0
+categorical__album_name_Every Kingdom,0.0
+categorical__album_name_Everybody Wants,0.0
+categorical__album_name_Everybody's in Show-Biz (Super Deluxe),0.0
+categorical__album_name_Everyday Is Christmas (Deluxe Edition),0.0
+categorical__album_name_Evil Empire,0.0
+categorical__album_name_Evolve,0.0
+categorical__album_name_Exis,0.0
+categorical__album_name_Exodus,0.0
+categorical__album_name_Famouz,0.0
+categorical__album_name_Fandango! (Expanded 2006 Remaster),0.0
+categorical__album_name_Farewell Summer,0.0
+categorical__album_name_Favourite Ballet,0.0
+categorical__album_name_Feel My Needs (Purple Disco Machine Remix),0.0
+categorical__album_name_Feliz Navidad,0.0
+categorical__album_name_Fetty Wap (Deluxe),0.0
+categorical__album_name_Fifty Shades Darker (Original Motion Picture Soundtrack),0.0
+categorical__album_name_Fine Line,0.0
+categorical__album_name_Fire And Water,0.0
+categorical__album_name_First Time,0.0
+categorical__album_name_Five Leaves Left,0.0
+categorical__album_name_Five More Hours,0.0
+categorical__album_name_Flicker (Deluxe),0.0
+categorical__album_name_Flores De Alquiler,0.0
+categorical__album_name_Follow You / Cutthroat,0.0
+"categorical__album_name_For Emma, Forever Ago",0.0
+categorical__album_name_For LP Fans Only,0.0
+categorical__album_name_Forever,0.0
+categorical__album_name_Free Nationals,0.0
+categorical__album_name_Freeze Frame,0.0
+categorical__album_name_Fresh Cream,0.0
+categorical__album_name_From Elvis in Memphis,0.0
+categorical__album_name_From The Fires,0.0
+categorical__album_name_From Under The Cork Tree,0.0
+categorical__album_name_Front Porch,0.0
+categorical__album_name_Frontera,0.0
+categorical__album_name_Full Moon Fever,0.0
+categorical__album_name_Future Present Past,0.0
+categorical__album_name_Fénix,0.0
+categorical__album_name_Game of Thrones (Music from the HBO® Series - Season 6),0.0
+categorical__album_name_Get A Grip,0.0
+categorical__album_name_Get Born,0.0
+categorical__album_name_Get Your Heart On!,0.0
+categorical__album_name_Get Your Heart On! (Deluxe Edition),0.0
+categorical__album_name_Giant (with Rag'n'Bone Man),0.0
+categorical__album_name_Glass Houses,0.0
+categorical__album_name_Glee: The Music presents The Warblers,0.0
+categorical__album_name_Goats Head Soup (Remastered 2009),0.0
+categorical__album_name_Gold Skies (feat. Aleesia) [Radio Edit],0.0
+categorical__album_name_Good Golly!,0.0
+categorical__album_name_Good Thing (with Kehlani),0.0
+categorical__album_name_Good Times! (Deluxe Edition),0.0
+categorical__album_name_Goodbye And Hello,0.0
+categorical__album_name_Gorillaz,0.0
+categorical__album_name_Grace,0.0
+categorical__album_name_Gratitude,0.0
+categorical__album_name_Greatest,0.0
+categorical__album_name_Greatest Hits,0.0
+categorical__album_name_Greatest Hits / Tequila,0.0
+categorical__album_name_Green River (Expanded Edition),0.0
+categorical__album_name_HEAVY META,0.0
+categorical__album_name_Hail to the King,0.0
+categorical__album_name_Happiness Begins,0.0
+categorical__album_name_Happy Together,0.0
+"categorical__album_name_Hard Settle, Ain't Troubled",0.0
+categorical__album_name_Harry Potter And The Goblet Of Fire (Original Motion Picture Soundtrack),0.0
+categorical__album_name_Harry Potter And The Order Of The Phoenix (Original Motion Picture Soundtrack),0.0
+categorical__album_name_Harry Potter and the Half-Blood Prince (Original Motion Picture Soundtrack),0.0
+categorical__album_name_Harry's House,0.0
+categorical__album_name_Hatful of Hollow,0.0
+categorical__album_name_Hawái,0.0
+categorical__album_name_Headlights (feat. Ilsey),0.0
+categorical__album_name_Heartbeat City (Expanded Edition),0.0
+categorical__album_name_Heathens,0.0
+categorical__album_name_Heaven on Earth (30th Anniversary Edition),0.0
+categorical__album_name_Heaven on Hold,0.0
+categorical__album_name_Hellbound Train,0.0
+"categorical__album_name_Hey, Brother Pour The Wine",0.0
+categorical__album_name_High Voltage,0.0
+categorical__album_name_Higher Love,0.0
+categorical__album_name_Higher Place (Bassjackers Remix),0.0
+categorical__album_name_Highlights From The Phantom Of The Opera,0.0
+categorical__album_name_Hitchhiking,0.0
+categorical__album_name_Hold Me Closer,0.0
+categorical__album_name_Hold On (feat. Cheat Codes) [2020 Edit],0.0
+categorical__album_name_Holiday,0.0
+categorical__album_name_Holiday Wishes,0.0
+categorical__album_name_Hollies,0.0
+categorical__album_name_Hooked On A Feeling,0.0
+categorical__album_name_Hot Chocolate,0.0
+categorical__album_name_Hot Fuss,0.0
+categorical__album_name_Hot Pink,0.0
+categorical__album_name_Hotel California (2013 Remaster),0.0
+categorical__album_name_Hounds Of Love,0.0
+categorical__album_name_How Far We've Come,0.0
+categorical__album_name_How To Save A Life,0.0
+categorical__album_name_Humbug,0.0
+"categorical__album_name_Hurry up, We're Dreaming",0.0
+categorical__album_name_Hybrid Theory (Bonus Edition),0.0
+categorical__album_name_Hyperion,0.0
+categorical__album_name_Hypnotized,0.0
+categorical__album_name_I Am,0.0
+categorical__album_name_I Follow Rivers (The Magician Remix),0.0
+categorical__album_name_I Forget Where We Were,0.0
+categorical__album_name_I Quit Drinking,0.0
+categorical__album_name_I See Red,0.0
+categorical__album_name_I Still Have Faith In You / Don't Shut Me Down,0.0
+categorical__album_name_I Was Born To Love You,0.0
+categorical__album_name_I'm an Albatraoz,0.0
+categorical__album_name_II,0.0
+categorical__album_name_Ice On The Dune,0.0
+categorical__album_name_Icky Thump,0.0
+categorical__album_name_Illmatic,0.0
+categorical__album_name_Imagine,0.0
+categorical__album_name_In A Time Lapse,0.0
+categorical__album_name_In Deepest Blue (Bonus Track Version),0.0
+categorical__album_name_In Rainbows,0.0
+categorical__album_name_In These Silent Days,0.0
+categorical__album_name_In Utero - 20th Anniversary - Deluxe Edition,0.0
+categorical__album_name_In Your Honor,0.0
+categorical__album_name_In the Summertime,0.0
+categorical__album_name_In the Waiting,0.0
+categorical__album_name_Indigo,0.0
+categorical__album_name_Infinity On High,0.0
+categorical__album_name_Inner Monologue Part 1,0.0
+categorical__album_name_Inside Friend (feat. John Mayer),0.0
+categorical__album_name_Insomniac,0.0
+categorical__album_name_Insurreccion (En Directo),0.0
+categorical__album_name_Into The Wild (Music For The Motion Picture),0.0
+categorical__album_name_Invasion of Privacy,0.0
+categorical__album_name_Is There Anybody Out There?,0.0
+categorical__album_name_Islands - Essential Einaudi,0.0
+categorical__album_name_It Ain't Me (with Selena Gomez),0.0
+categorical__album_name_It's About Us,0.0
+categorical__album_name_It's Time,0.0
+categorical__album_name_It's a Small World After All,0.0
+categorical__album_name_JOSE,0.0
+categorical__album_name_Jailbreak (Deluxe Edition),0.0
+categorical__album_name_Jazz (2011 Remaster),0.0
+categorical__album_name_Jungle Rules,0.0
+categorical__album_name_KOKOROKO,0.0
+categorical__album_name_Kenny,0.0
+categorical__album_name_Kid A,0.0
+categorical__album_name_Kind Of Blue (Legacy Edition),0.0
+categorical__album_name_King Of The Electric Blues,0.0
+"categorical__album_name_Kiss Me, Kiss Me, Kiss Me",0.0
+categorical__album_name_L-O-V-E,0.0
+categorical__album_name_LAST CHRISTMAS,0.0
+categorical__album_name_La Familia B Sides,0.0
+categorical__album_name_Ladies and gentlemen we are floating in space,0.0
+categorical__album_name_Largo Rv. 443 For Guitar,0.0
+categorical__album_name_Last Night In The Bittersweet,0.0
+categorical__album_name_Layla And Other Assorted Love Songs (Remastered 2010),0.0
+categorical__album_name_Leave Before You Love Me,0.0
+categorical__album_name_Leave This Town,0.0
+categorical__album_name_Led Zeppelin,0.0
+categorical__album_name_Led Zeppelin III (Remaster),0.0
+categorical__album_name_Led Zeppelin IV (Remaster),0.0
+categorical__album_name_Leftoverture (Expanded Edition),0.0
+categorical__album_name_LemonJelly.ky,0.0
+categorical__album_name_Let It Be (Remastered),0.0
+categorical__album_name_Let Me Reach That Mountain,0.0
+categorical__album_name_Let The Road,0.0
+categorical__album_name_Let There Be Rock,0.0
+categorical__album_name_Lifehouse,0.0
+categorical__album_name_Light Touch,0.0
+categorical__album_name_Listen,0.0
+categorical__album_name_Living In The Background,0.0
+categorical__album_name_Lo Más Maravilloso,0.0
+categorical__album_name_Lo Que Te Conte Mientras Te Hacias La Dormida,0.0
+categorical__album_name_Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),0.0
+categorical__album_name_Loaded (2015 Remaster),0.0
+categorical__album_name_Locked Away (feat. Adam Levine),0.0
+categorical__album_name_Loco,0.0
+categorical__album_name_London Calling (Remastered),0.0
+categorical__album_name_London's Song,0.0
+categorical__album_name_Lonesome Dreams,0.0
+categorical__album_name_Long Way Down (Deluxe),0.0
+categorical__album_name_Louder Than Bombs,0.0
+categorical__album_name_Love & Hate,0.0
+categorical__album_name_Love Drunk,0.0
+categorical__album_name_Love In The Future (Expanded Edition),0.0
+categorical__album_name_Love Is a Bitch,0.0
+categorical__album_name_Love on the Weekend,0.0
+categorical__album_name_Lover,0.0
+categorical__album_name_Lunatic,0.0
+categorical__album_name_Lágrimas desordenadas,0.0
+categorical__album_name_Líderes,0.0
+categorical__album_name_MIA (feat. Drake),0.0
+categorical__album_name_MONOVISION,0.0
+categorical__album_name_MONTERO,0.0
+categorical__album_name_Madman Across The Water,0.0
+categorical__album_name_Magazines Or Novels,0.0
+categorical__album_name_Maggot Brain,0.0
+categorical__album_name_Magic Christian Music (Remastered 2010 / Deluxe Edition),0.0
+categorical__album_name_Magic Potion,0.0
+categorical__album_name_Magical Mystery Tour (Remastered),0.0
+"categorical__album_name_Mattei, Peter: Great Baritone Arias",0.0
+categorical__album_name_May Death Never Stop You,0.0
+categorical__album_name_Me And My Gang,0.0
+categorical__album_name_Me Before You (Original Motion Picture Soundtrack),0.0
+categorical__album_name_Me Rehúso,0.0
+categorical__album_name_Me Verás Volver (Hits & Más),0.0
+categorical__album_name_Mediterráneo,0.0
+categorical__album_name_Meet On The Ledge: The Classic Years (1967-1975),0.0
+categorical__album_name_Meet The Orphans,0.0
+categorical__album_name_Melophobia,0.0
+categorical__album_name_Memories...Do Not Open,0.0
+categorical__album_name_Menagerie,0.0
+categorical__album_name_Mercury - Acts 1 & 2,0.0
+categorical__album_name_Merry Christmas Everyone,0.0
+categorical__album_name_Merry Christmas From Brenda Lee,0.0
+categorical__album_name_Meteora,0.0
+categorical__album_name_Meteora (Bonus Edition),0.0
+categorical__album_name_Mi Gente,0.0
+categorical__album_name_Mil Tequilas,0.0
+categorical__album_name_Milano,0.0
+categorical__album_name_Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music],0.0
+categorical__album_name_Mind Of Mine (Deluxe Edition),0.0
+categorical__album_name_Miserable Man,0.0
+categorical__album_name_Mistakes on Purpose (Ethiopiques 30),0.0
+categorical__album_name_More Than A Woman (SG's Paradise Edit),0.0
+categorical__album_name_More Than You Think You Are,0.0
+categorical__album_name_More of The Monkees (Deluxe Edition),0.0
+categorical__album_name_Morning View,0.0
+categorical__album_name_Most of the Animals,0.0
+categorical__album_name_Motivando a la Yal,0.0
+categorical__album_name_Moving Pictures (2011 Remaster),0.0
+categorical__album_name_Mr. Fantasy,0.0
+categorical__album_name_Music From Big Pink (Remastered),0.0
+categorical__album_name_Music Sounds Better with You,0.0
+categorical__album_name_Music To Be Murdered By,0.0
+"categorical__album_name_My Dear Melancholy,",0.0
+categorical__album_name_My Everything (Deluxe),0.0
+categorical__album_name_My Head Is An Animal,0.0
+categorical__album_name_My Love (feat. Jess Glynne),0.0
+categorical__album_name_Más,0.0
+categorical__album_name_Naked All the Time,0.0
+categorical__album_name_Natural Light,0.0
+categorical__album_name_Naturally,0.0
+categorical__album_name_Nena,0.0
+categorical__album_name_New Divide (Int'l DMD Maxi),0.0
+categorical__album_name_New Star,0.0
+categorical__album_name_Nibiru,0.0
+categorical__album_name_Nimrod,0.0
+categorical__album_name_Nine Track Mind,0.0
+categorical__album_name_No Dice (Remastered 2010 / Deluxe Edition),0.0
+categorical__album_name_No Eyes,0.0
+categorical__album_name_No More Tears (Expanded Edition),0.0
+"categorical__album_name_No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",0.0
+categorical__album_name_No Sound Without Silence,0.0
+categorical__album_name_No Vacancy,0.0
+categorical__album_name_Nobody But Me,0.0
+categorical__album_name_Notion,0.0
+categorical__album_name_OASIS,0.0
+categorical__album_name_OK Computer,0.0
+categorical__album_name_OK Human,0.0
+categorical__album_name_Ocean Eyes,0.0
+categorical__album_name_Ocean Eyes (Deluxe Version),0.0
+categorical__album_name_Odessey & Oracle_ 30th Anniversary Edition,0.0
+categorical__album_name_Odisea,0.0
+categorical__album_name_Offenbach - Great Recordings,0.0
+categorical__album_name_Oh My My,0.0
+"categorical__album_name_Oh, Pretty Woman",0.0
+"categorical__album_name_Oh, What A Life",0.0
+categorical__album_name_Old Tyme Religion,0.0
+categorical__album_name_On An Island,0.0
+categorical__album_name_One Kiss (with Dua Lipa) [Remixes],0.0
+categorical__album_name_Onion,0.0
+categorical__album_name_Ooh La La,0.0
+"categorical__album_name_Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",0.0
+categorical__album_name_Orange,0.0
+categorical__album_name_Ordino,0.0
+categorical__album_name_Origami,0.0
+categorical__album_name_Origins (Deluxe),0.0
+categorical__album_name_Out Of Time (25th Anniversary Edition),0.0
+categorical__album_name_Over Now (with The Weeknd),0.0
+categorical__album_name_OzuTochi,0.0
+categorical__album_name_PAPI JUANCHO,0.0
+categorical__album_name_Pablo Honey,0.0
+categorical__album_name_Pacific Standard Time,0.0
+categorical__album_name_Paradise Valley,0.0
+categorical__album_name_Paramore,0.0
+categorical__album_name_Paranoid,0.0
+categorical__album_name_Parrot Cay,0.0
+categorical__album_name_Part Of The Light,0.0
+categorical__album_name_Parte De La Religion,0.0
+categorical__album_name_Pasión,0.0
+categorical__album_name_Passing Rain,0.0
+categorical__album_name_Past Masters (Vols. 1 & 2 / Remastered),0.0
+categorical__album_name_Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture),0.0
+categorical__album_name_Pepas,0.0
+categorical__album_name_Permanent Waves,0.0
+categorical__album_name_Pet Sounds (Original Mono & Stereo Mix Versions),0.0
+categorical__album_name_Pharmacy,0.0
+categorical__album_name_Piano Book (Deluxe Edition),0.0
+categorical__album_name_Piano Man (Legacy Edition),0.0
+categorical__album_name_Picky Back To The Roots,0.0
+categorical__album_name_Pictures,0.0
+categorical__album_name_Piece Of Your Heart,0.0
+categorical__album_name_Pink Moon,0.0
+categorical__album_name_Plastic Beach,0.0
+categorical__album_name_Platonicos,0.0
+categorical__album_name_Play with Fire (feat. Yacht Money),0.0
+categorical__album_name_Play with Me,0.0
+categorical__album_name_Pleasantville -Music From The Motion Picture,0.0
+categorical__album_name_Please: Further Listening 1984 - 1986 (2018 Remaster),0.0
+categorical__album_name_Prayer,0.0
+categorical__album_name_Prestige,0.0
+categorical__album_name_Pretend,0.0
+categorical__album_name_Primera Cita,0.0
+categorical__album_name_Pronounced' Leh-'Nerd 'Skin-'Nerd,0.0
+categorical__album_name_Puccini: Turandot,0.0
+categorical__album_name_Puccini: Turandot (Highlights),0.0
+categorical__album_name_Puccini: Turandot - Highlights,0.0
+categorical__album_name_Pulp Fiction (Music From The Motion Picture),0.0
+categorical__album_name_Pure & Simple,0.0
+categorical__album_name_Purple (2019 Remaster),0.0
+categorical__album_name_Purpose (Deluxe),0.0
+categorical__album_name_Push The Button,0.0
+categorical__album_name_Que Tire Pa Lante,0.0
+"categorical__album_name_Quevedo: Bzrp Music Sessions, Vol. 52",0.0
+categorical__album_name_Qué Más Pues?,0.0
+categorical__album_name_R&B: From Doo-Wop To Hip-Hop,0.0
+categorical__album_name_R&G (Rhythm & Gangsta): The Masterpiece,0.0
+categorical__album_name_RCA 100 Años De Musica,0.0
+categorical__album_name_Rage Against The Machine - XX (20th Anniversary Special Edition),0.0
+categorical__album_name_Raise!,0.0
+categorical__album_name_Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),0.0
+"categorical__album_name_Ray Charles (aka: Hallelujah, I Love Her So)",0.0
+categorical__album_name_Ready For Romance,0.0
+categorical__album_name_Real Thing,0.0
+categorical__album_name_Reckless,0.0
+categorical__album_name_Reckless (30th Anniversary / Deluxe Edition),0.0
+"categorical__album_name_Red Light Green Light (For Club Play Only, Pt. 6)",0.0
+categorical__album_name_Reflection (Deluxe),0.0
+categorical__album_name_Repeat After Me,0.0
+categorical__album_name_Return To Love,0.0
+categorical__album_name_Revelación - EP,0.0
+categorical__album_name_Revolution Radio,0.0
+categorical__album_name_Rich Love,0.0
+categorical__album_name_Riding with the King,0.0
+"categorical__album_name_Rise And Fall, Rage And Grace",0.0
+categorical__album_name_River Of Dreams,0.0
+categorical__album_name_Robin Hood (Original Motion Picture Soundtrack),0.0
+categorical__album_name_Rock Of The Westies,0.0
+categorical__album_name_Rocky IV,0.0
+categorical__album_name_Romances,0.0
+categorical__album_name_Room For Squares,0.0
+categorical__album_name_Room On Fire,0.0
+categorical__album_name_Rubber Soul (Remastered),0.0
+categorical__album_name_Rude,0.0
+categorical__album_name_Rumor And Sigh,0.0
+categorical__album_name_Runaway,0.0
+categorical__album_name_SEJODIOTO,0.0
+categorical__album_name_SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),0.0
+categorical__album_name_Sam's Town,0.0
+"categorical__album_name_Save Me, San Francisco (Golden Gate Edition)",0.0
+categorical__album_name_Savoca,0.0
+categorical__album_name_Say,0.0
+categorical__album_name_Scars & Stories,0.0
+categorical__album_name_Secreto,0.0
+"categorical__album_name_See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)",0.0
+categorical__album_name_Self Control,0.0
+categorical__album_name_Seve (Radio Edit),0.0
+categorical__album_name_Seven Days Walking (Day 1),0.0
+categorical__album_name_Shades of Deep Purple,0.0
+categorical__album_name_Shadows Collide With People,0.0
+categorical__album_name_Shake Your Money Maker,0.0
+categorical__album_name_Shaky Shaky,0.0
+categorical__album_name_Shawn Mendes (Deluxe),0.0
+categorical__album_name_Shower,0.0
+categorical__album_name_Sigh No More,0.0
+categorical__album_name_Simple Things,0.0
+categorical__album_name_Six Feet Under,0.0
+categorical__album_name_Skrillex and Diplo present Jack Ü,0.0
+categorical__album_name_Sleeping With The Past (Remastered with bonus tracks),0.0
+categorical__album_name_Slippery When Wet,0.0
+categorical__album_name_Slowhand 35th Anniversary (Super Deluxe),0.0
+categorical__album_name_Smiley Smile (Remastered),0.0
+"categorical__album_name_So Wrong, It's Right",0.0
+categorical__album_name_Sob Rock,0.0
+categorical__album_name_Solo (feat. Demi Lovato),0.0
+categorical__album_name_Some Girls,0.0
+categorical__album_name_Songs From The Big Chair (Super Deluxe Edition),0.0
+categorical__album_name_Songs from the Arc of Life,0.0
+categorical__album_name_Sonnen Diamant,0.0
+categorical__album_name_Soulmatic,0.0
+categorical__album_name_Sounds Of Silence,0.0
+categorical__album_name_Spirit Bird,0.0
+categorical__album_name_St. Louis To Liverpool,0.0
+categorical__album_name_Stadium Arcadium,0.0
+categorical__album_name_Starboy,0.0
+categorical__album_name_Stargazing - EP,0.0
+categorical__album_name_Stay Alive (From The Secret Life Of Walter Mitty),0.0
+categorical__album_name_Step II,0.0
+categorical__album_name_Stop All the World Now (Special Edition),0.0
+categorical__album_name_Stories,0.0
+categorical__album_name_Storm Front,0.0
+categorical__album_name_Strange Desire,0.0
+categorical__album_name_Strangeland,0.0
+categorical__album_name_Stranger Things (Soundtrack from the Netflix Original Series),0.0
+categorical__album_name_Struck By Clouds,0.0
+categorical__album_name_Subconsciously,0.0
+categorical__album_name_Sublime,0.0
+categorical__album_name_Sugar (feat. Francesco Yates),0.0
+categorical__album_name_Sunday EP,0.0
+categorical__album_name_Sunny Side Up,0.0
+categorical__album_name_Sunrise European Single,0.0
+categorical__album_name_Surfer Rosa,0.0
+categorical__album_name_Surfin' USA (Remastered),0.0
+categorical__album_name_Surrealistic Pillow,0.0
+categorical__album_name_Swan Upon Leda,0.0
+categorical__album_name_Sígueme Y Te Sigo,0.0
+categorical__album_name_THIS IS... ICONA POP,0.0
+categorical__album_name_Take Off Your Pants And Jacket,0.0
+categorical__album_name_Tango 4,0.0
+categorical__album_name_Tarregas Bodega,0.0
+categorical__album_name_Tattoo You (2009 Re-Mastered),0.0
+categorical__album_name_Tea For The Tillerman (Super Deluxe),0.0
+categorical__album_name_Teaser And The Firecat (Remastered 2021),0.0
+categorical__album_name_That's All,0.0
+categorical__album_name_The Album,0.0
+categorical__album_name_The Anthology 1964 - 1971,0.0
+categorical__album_name_The Battle Of Los Angeles,0.0
+categorical__album_name_The Bends,0.0
+categorical__album_name_The Best Of,0.0
+categorical__album_name_The Better Life,0.0
+categorical__album_name_The Big Come Up,0.0
+"categorical__album_name_The Birds, The Bees, & The Monkees",0.0
+categorical__album_name_The Blue Notebooks (15 Years),0.0
+categorical__album_name_The Business,0.0
+categorical__album_name_The Campfire Headphase,0.0
+categorical__album_name_The Cars,0.0
+categorical__album_name_The Colour And The Shape,0.0
+categorical__album_name_The Complete Hank Williams,0.0
+categorical__album_name_The Dance Album,0.0
+categorical__album_name_The Days / Nights,0.0
+categorical__album_name_The Downward Spiral (Deluxe Edition),0.0
+categorical__album_name_The Eminem Show,0.0
+categorical__album_name_The Essential Jerry Lee Lewis [The Sun Sessions],0.0
+categorical__album_name_The Essential Roy Orbison,0.0
+categorical__album_name_The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),0.0
+categorical__album_name_The Final Countdown (Expanded Edition),0.0
+categorical__album_name_The Gambler,0.0
+categorical__album_name_The Getaway,0.0
+categorical__album_name_The Ginning,0.0
+categorical__album_name_The Good Times,0.0
+categorical__album_name_The Greatest Showman (Original Motion Picture Soundtrack),0.0
+categorical__album_name_The Head and the Heart,0.0
+categorical__album_name_The Libertines,0.0
+categorical__album_name_The Lily,0.0
+categorical__album_name_The Lockdown Sessions,0.0
+categorical__album_name_The Lost Album,0.0
+categorical__album_name_The Low End Theory,0.0
+categorical__album_name_The Madcap Laughs,0.0
+categorical__album_name_The Marshall Mathers LP,0.0
+categorical__album_name_The Only Boy Awake,0.0
+categorical__album_name_The Papas & The Mamas,0.0
+categorical__album_name_The People's Tenor,0.0
+categorical__album_name_The Phantom Of The Opera (Original Motion Picture Soundtrack / Deluxe Edition),0.0
+categorical__album_name_The Phantom Of The Opera (Original Motion Picture Soundtrack),0.0
+categorical__album_name_The Predator,0.0
+categorical__album_name_The Queen Is Dead,0.0
+categorical__album_name_The Razors Edge,0.0
+categorical__album_name_The Runaways,0.0
+categorical__album_name_The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture),0.0
+categorical__album_name_The Soft Parade,0.0
+categorical__album_name_The Stooges,0.0
+categorical__album_name_The Stranger (Legacy Edition),0.0
+categorical__album_name_The Temptations Sing Smokey,0.0
+categorical__album_name_The Theory of Everything (Original Motion Picture Soundtrack),0.0
+categorical__album_name_The Times They Are A-Changin',0.0
+categorical__album_name_The Trinity,0.0
+categorical__album_name_The Velvet Underground & Nico 45th Anniversary,0.0
+categorical__album_name_The Very Best of Bonnie Tyler,0.0
+categorical__album_name_The Visitors (Deluxe Edition),0.0
+categorical__album_name_The Who By Numbers,0.0
+categorical__album_name_The Woman In Me,0.0
+categorical__album_name_The Young and The Hopeless,0.0
+categorical__album_name_Third Eye Blind,0.0
+categorical__album_name_This Empty Northern Hemisphere,0.0
+categorical__album_name_This Is Me,0.0
+"categorical__album_name_This Is Me (Alan Walker Relift; from ""The Greatest Showman"")",0.0
+categorical__album_name_This Is War,0.0
+categorical__album_name_This Is What You Came For,0.0
+categorical__album_name_This Mixtape is Fire.,0.0
+categorical__album_name_Three Cheers for Sweet Revenge,0.0
+categorical__album_name_Time Out,0.0
+categorical__album_name_Timelezz,0.0
+categorical__album_name_Todo De Ti,0.0
+categorical__album_name_Too Rye Ay,0.0
+categorical__album_name_Torches,0.0
+categorical__album_name_Toroka,0.0
+categorical__album_name_Toys In The Attic,0.0
+categorical__album_name_Tracy Chapman,0.0
+categorical__album_name_Tranquility Base Hotel & Casino,0.0
+categorical__album_name_Transformer,0.0
+categorical__album_name_Trash,0.0
+categorical__album_name_Traveler,0.0
+categorical__album_name_Traveller,0.0
+categorical__album_name_Trench,0.0
+categorical__album_name_Tres Hombres (Expanded 2006 Remaster),0.0
+categorical__album_name_Trouble,0.0
+categorical__album_name_Trouble’s Coming,0.0
+categorical__album_name_Truce - EP,0.0
+categorical__album_name_True Colors,0.0
+categorical__album_name_Tubular Bells,0.0
+categorical__track_genre_reggaeton,0.0
+categorical__album_name_Turn! Turn! Turn!,0.0
+categorical__album_name_Turnstiles,0.0
+categorical__album_name_UFO,0.0
+categorical__album_name_UN DIA (ONE DAY) (Feat. Tainy),0.0
+"categorical__album_name_Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",0.0
+categorical__track_genre_trip-hop,0.0
+categorical__album_name_Un Verano Sin Ti,0.0
+categorical__album_name_Una Mattina,0.0
+categorical__album_name_Underwater,0.0
+categorical__album_name_Undiscovered,0.0
+categorical__album_name_United,0.0
+categorical__album_name_Unorthodox Jukebox,0.0
+categorical__album_name_Unpeeled,0.0
+categorical__album_name_Unplugged,0.0
+categorical__album_name_Uprising,0.0
+categorical__album_name_Urban Hymns (Remastered 2016),0.0
+categorical__album_name_Use Your Illusion I,0.0
+categorical__track_genre_jazz,0.0
+categorical__album_name_VIDA,0.0
+categorical__album_name_Valsa e Vinho,0.0
+categorical__album_name_Vampire Weekend,0.0
+categorical__album_name_Van Halen (Remastered),0.0
+categorical__album_name_Veckatimest,0.0
+categorical__album_name_Veneer,0.0
+categorical__album_name_Veni Vidi Vicious,0.0
+categorical__album_name_Verdi: La Traviata,0.0
+categorical__album_name_Vete,0.0
+categorical__album_name_Vibras,0.0
+categorical__album_name_Views,0.0
+categorical__album_name_Violent Femmes,0.0
+categorical__album_name_Virus (How About Now) [Radio Edit],0.0
+categorical__album_name_Visions Of A Life,0.0
+categorical__album_name_Vital Idol,0.0
+categorical__album_name_Volando (Remix),0.0
+categorical__album_name_Volví,0.0
+categorical__album_name_Voulez-Vous,0.0
+categorical__track_genre_metal,0.0
+categorical__album_name_Vs.,0.0
+"categorical__album_name_WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",0.0
+categorical__album_name_Waiting on a Song,0.0
+categorical__album_name_Waking Up,0.0
+categorical__album_name_Walk With Us (For Black Lives Matter),0.0
+categorical__album_name_Wanted,0.0
+categorical__track_genre_new-age,0.0
+categorical__album_name_Wasting Light,0.0
+categorical__album_name_Waves (Robin Schulz Radio Edit),0.0
+categorical__album_name_We Are Your Friends (Music From The Original Motion Picture),0.0
+categorical__album_name_We Sing. We Dance. We Steal Things.,0.0
+categorical__album_name_We Were Here,0.0
+"categorical__album_name_Wednesday Morning, 3 A.M.",0.0
+categorical__album_name_Weezer,0.0
+categorical__album_name_Weezer (Green Album),0.0
+categorical__album_name_Welcome Interstate Managers,0.0
+categorical__album_name_What Could Possibly Go Wrong,0.0
+categorical__album_name_What Dreams Are Made Of,0.0
+categorical__album_name_What's New Scooby-Doo?,0.0
+categorical__track_genre_psych-rock,0.0
+categorical__album_name_When I Woke,0.0
+categorical__album_name_When The Lights Go Down,0.0
+categorical__album_name_When We Were Friends,0.0
+categorical__album_name_Where I Belong (feat. We The Kings),0.0
+categorical__album_name_Where the Light Is: John Mayer Live In Los Angeles,0.0
+categorical__album_name_White Blood Cells,0.0
+categorical__album_name_Who Are You,0.0
+categorical__album_name_Who Loves You,0.0
+categorical__album_name_Who Made Who,0.0
+categorical__album_name_Who We Are,0.0
+categorical__track_genre_punk,0.0
+categorical__album_name_Willy And The Poor Boys (Expanded Edition),0.0
+categorical__album_name_Wiped Out!,0.0
+categorical__artists_Alex Schulz,0.0
+categorical__album_name_With The Beatles (Remastered),0.0
+categorical__artists_Alexis Ffrench,0.0
+categorical__album_name_Works In Progress,0.0
+categorical__album_name_Wounded Rhymes (Anniversary Edition),0.0
+categorical__album_name_Writer's Block,0.0
+categorical__album_name_XO,0.0
+categorical__artists_Alice Cooper,0.0
+categorical__album_name_Yeti Season (Deluxe Version),0.0
+categorical__album_name_Yield,0.0
+categorical__album_name_Yonaguni,0.0
+categorical__album_name_You Know You Like It,0.0
+categorical__album_name_You Must Believe In Spring (Remastered Version),0.0
+categorical__album_name_Young The Giant (Special Edition),0.0
+"categorical__album_name_Young, Wild & Free (feat. Bruno Mars)",0.0
+categorical__album_name_Your Man,0.0
+categorical__album_name_Yourself or Someone Like You,0.0
+categorical__album_name_ask the river,0.0
+categorical__album_name_channel ORANGE,0.0
+categorical__album_name_eclipse,0.0
+categorical__album_name_everything i wanted,0.0
+categorical__album_name_folklore,0.0
+categorical__album_name_reputation,0.0
+categorical__artists_All Time Low,0.0
+categorical__album_name_x (Deluxe Edition),0.0
+categorical__album_name_~how i'm feeling~,0.0
+categorical__album_name_¡UNO!,0.0
+categorical__artists_Amilcare Ponchielli;Staatskapelle Dresden;Silvio Varviso,0.0
+"categorical__track_name_""Was He Slow?"" - Music From The Motion Picture Baby Driver",0.0
+categorical__track_name_(I Just) Died In Your Arms,0.0
+categorical__track_name_(You're The) Devil in Disguise,0.0
+categorical__track_name_12:51,0.0
+categorical__track_name_1952 Vincent Black Lightning,0.0
+categorical__track_name_3AM,0.0
+categorical__track_name_505,0.0
+categorical__track_name_679 (feat. Remy Boyz),0.0
+categorical__track_name_99 Luftballons,0.0
+categorical__track_name_99 Problems,0.0
+categorical__track_name_A Certain Romance,0.0
+categorical__track_name_A Day In The Life - Remastered 2009,0.0
+categorical__track_name_A Few Reasons,0.0
+categorical__track_name_A Hard Day's Night - Remastered 2009,0.0
+categorical__track_name_A Million Dreams,0.0
+categorical__track_name_A Million Dreams (Reprise),0.0
+categorical__track_name_A Sunday Kind Of Love,0.0
+categorical__track_name_A Thousand Years,0.0
+categorical__track_name_A Tu Merced,0.0
+categorical__track_name_About Damn Time,0.0
+categorical__track_name_Abusey Junction,0.0
+categorical__track_name_Acolyte,0.0
+categorical__track_name_Across The Universe - Remastered 2009,0.0
+categorical__track_name_Across the Universe,0.0
+categorical__track_name_Addicted,0.0
+categorical__track_name_After All,0.0
+categorical__track_name_After Midnight,0.0
+categorical__track_name_Agua,0.0
+categorical__track_name_Ahora y siempre,0.0
+categorical__track_name_Ain't No Mountain High Enough,0.0
+categorical__track_name_Ain't No Rest for the Wicked,0.0
+categorical__track_name_Alabama Song (Whisky Bar),0.0
+categorical__track_name_Algo Me Gusta De Ti,0.0
+categorical__artists_Anderson East,0.0
+categorical__track_name_All I Want Is to Be With You,0.0
+categorical__track_name_All My Favorite Songs,0.0
+categorical__track_name_All My Loving - Remastered 2009,0.0
+categorical__track_name_All Night,0.0
+categorical__track_name_All Right Now,0.0
+categorical__track_name_All The Right Moves,0.0
+categorical__track_name_All The Small Things,0.0
+categorical__track_name_All The Stars (with SZA),0.0
+categorical__track_name_All These Things,0.0
+categorical__track_name_All We Know,0.0
+categorical__track_name_All You Need Is Love - Remastered 2009,0.0
+categorical__track_name_All Your Love - Stereo,0.0
+categorical__track_name_All of Me,0.0
+categorical__track_name_All the Pretty Girls,0.0
+categorical__track_name_All the Young Dudes,0.0
+categorical__artists_Andrea Bocelli,0.0
+categorical__track_name_Almost June,0.0
+"categorical__track_name_Alone, Together",0.0
+categorical__track_name_Aloo Gobi,0.0
+categorical__track_name_Amarillo,0.0
+categorical__track_name_American Idiot,0.0
+categorical__track_name_American Pie,0.0
+categorical__track_name_An Idea,0.0
+categorical__track_name_And I Love Her - Remastered 2009,0.0
+categorical__track_name_And So It Goes,0.0
+categorical__track_name_And Your Bird Can Sing - Remastered 2009,0.0
+categorical__track_name_Andas En Mi Cabeza,0.0
+categorical__track_name_Angel Of Small Death & The Codeine Scene,0.0
+categorical__track_name_Angela,0.0
+categorical__track_name_Angeleyes,0.0
+categorical__track_name_Angie,0.0
+categorical__track_name_Ani Kuni,0.0
+categorical__track_name_Anna (Go To Him) - Remastered 2009,0.0
+"categorical__track_name_Another Brick in the Wall, Pt. 2",0.0
+categorical__track_name_Another Love,0.0
+categorical__track_name_Any Colour You Like,0.0
+categorical__track_name_Any Man Of Mine,0.0
+categorical__track_name_Any Way You Want It,0.0
+categorical__track_name_April Come She Will,0.0
+categorical__track_name_Arabella,0.0
+categorical__track_name_Are You Gonna Be My Girl,0.0
+categorical__track_name_As It Was,0.0
+categorical__track_name_Ascent - Day 1,0.0
+categorical__artists_Andrea Bocelli;David Foster,0.0
+categorical__track_name_Atoms,0.0
+categorical__track_name_Atrévete-Te-Te,0.0
+categorical__track_name_Attention (with Justin Bieber) - Disclosure Remix,0.0
+categorical__track_name_Aunque tú no lo sepas,0.0
+categorical__track_name_Ave Maria,0.0
+categorical__track_name_Ay Mi Dios,0.0
+categorical__track_name_Ay Vamos,0.0
+categorical__artists_Andrea Bocelli;Ellie Goulding,0.0
+categorical__track_name_BICHOTA,0.0
+categorical__track_name_Baba O'Riley,0.0
+categorical__track_name_Baby It's Cold Outside (duet with Michael Bublé),0.0
+categorical__track_name_Baby Powder,0.0
+categorical__track_name_Back In Black,0.0
+categorical__track_name_Back In The U.S.S.R. - Remastered 2009,0.0
+categorical__track_name_Bad Decisions,0.0
+categorical__track_name_Bad Habits,0.0
+categorical__track_name_Bad Liar,0.0
+categorical__track_name_Bad Moon Rising,0.0
+categorical__track_name_Baila Baila Baila,0.0
+categorical__track_name_Baila Conmigo (with Rauw Alejandro),0.0
+categorical__track_name_Bandoleros,0.0
+categorical__track_name_Barely Legal,0.0
+categorical__track_name_Basket Case,0.0
+categorical__track_name_Battleships,0.0
+categorical__track_name_Be Someone,0.0
+categorical__track_name_Beach & Berries,0.0
+categorical__track_name_Beast Of Burden - Remastered 1994,0.0
+categorical__track_name_Beautiful Now,0.0
+categorical__track_name_Beautiful Soul,0.0
+categorical__track_name_Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra),0.0
+categorical__artists_Andrea Bocelli;Giorgia,0.0
+categorical__track_name_Because I Got High,0.0
+categorical__track_name_Because I Got High - Extended Version,0.0
+categorical__track_name_Being Alive,0.0
+categorical__track_name_Believer,0.0
+categorical__track_name_Bell Bottom Blues,0.0
+categorical__track_name_Bellbottoms,0.0
+categorical__track_name_Best Day Of My Life,0.0
+categorical__track_name_Best of You,0.0
+categorical__track_name_Better Days,0.0
+categorical__artists_Andrea Bocelli;Jennifer Lopez,0.0
+categorical__track_name_Big Black Car,0.0
+categorical__track_name_Big Ideas,0.0
+categorical__track_name_Big Poppa - 2007 Remaster,0.0
+categorical__track_name_Billie Bossa Nova,0.0
+categorical__track_name_Birds,0.0
+categorical__track_name_Bitter Sweet Symphony,0.0
+categorical__track_name_Black Treacle,0.0
+categorical__track_name_Blackbird - Remastered 2009,0.0
+categorical__track_name_Blame (feat. John Newman),0.0
+categorical__track_name_Blank Space,0.0
+categorical__track_name_Blitzkrieg Bop - 2016 Remaster,0.0
+categorical__track_name_Blue Christmas,0.0
+categorical__track_name_Blue Red And Grey,0.0
+categorical__artists_Andrew Lloyd Webber;Gerard Butler;Emmy Rossum,0.0
+categorical__track_name_Blue in Green (feat. John Coltrane & Bill Evans),0.0
+categorical__track_name_Body,0.0
+categorical__track_name_Body Funk,0.0
+categorical__track_name_Body Paint,0.0
+categorical__track_name_Bohemian Rhapsody - Remastered 2011,0.0
+categorical__track_name_Bold as Love,0.0
+categorical__track_name_Boogie Wonderland,0.0
+categorical__track_name_Born,0.0
+categorical__track_name_Born To Be Yours,0.0
+categorical__track_name_Born in the U.S.A.,0.0
+categorical__track_name_Brain Damage,0.0
+categorical__track_name_Brain Stew,0.0
+categorical__track_name_Break My Heart,0.0
+categorical__track_name_Break on Through (To the Other Side),0.0
+categorical__track_name_Breakfast In America - 2010 Remastered,0.0
+categorical__track_name_Breaking Me,0.0
+categorical__track_name_Breaking the Habit,0.0
+categorical__track_name_Breaking the Law,0.0
+categorical__track_name_Breathe (In the Air),0.0
+"categorical__track_name_Bring Da Ruckus (feat. RZA, Ghostface Killah, Raekwon & Inspectah Deck)",0.0
+categorical__artists_Andrew Lloyd Webber;Michael Crawford;Sarah Brightman;Steve Barton,0.0
+categorical__track_name_Broken,0.0
+categorical__track_name_Brookline,0.0
+categorical__track_name_Brooklyn Bridge To Chorus,0.0
+categorical__track_name_Brother Louie,0.0
+categorical__track_name_Brown Eyed Girl,0.0
+categorical__track_name_Brown Sugar - 2009 Remaster,0.0
+categorical__track_name_Buddy Holly,0.0
+categorical__track_name_Bulls On Parade,0.0
+categorical__track_name_Burning Love,0.0
+categorical__track_name_Buscando un Símbolo de Paz,0.0
+categorical__track_name_By the Way,0.0
+categorical__track_name_Bésame Mucho,0.0
+categorical__artists_Andrew Lloyd Webber;Patrick Wilson;Simon Callow;Ciaran Hinds,0.0
+categorical__track_name_Cadiz,0.0
+categorical__track_name_California Dreamin',0.0
+categorical__track_name_California Love - Original Version,0.0
+categorical__track_name_Californication,0.0
+"categorical__track_name_Call It Fate, Call It Karma",0.0
+categorical__track_name_Call Out My Name,0.0
+categorical__track_name_Callaita,0.0
+categorical__track_name_Calma - Remix,0.0
+categorical__track_name_Campus,0.0
+categorical__track_name_Can't Buy Me Love - Remastered 2009,0.0
+"categorical__track_name_Can't Help Falling In Love - Live From Spotify, NYC / 2015",0.0
+categorical__track_name_Can't Help Falling in Love,0.0
+categorical__track_name_Can't You Hear Me Knocking - 2009 Mix,0.0
+categorical__track_name_Cancer,0.0
+categorical__track_name_Candle In The Wind - Remastered 2014,0.0
+categorical__track_name_Candy,0.0
+categorical__track_name_Capital Letters,0.0
+categorical__track_name_Capsize,0.0
+categorical__track_name_Carry Me Away,0.0
+categorical__track_name_Carry That Weight - Remastered 2009,0.0
+categorical__track_name_Carry on Wayward Son,0.0
+categorical__track_name_Catch & Release - Deepend Remix,0.0
+categorical__track_name_Cause We've Ended as Lovers,0.0
+"categorical__track_name_Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",0.0
+categorical__track_name_Centerfold,0.0
+categorical__track_name_Change,0.0
+categorical__track_name_Charge,0.0
+categorical__track_name_Check the Rhime,0.0
+categorical__track_name_Cherry Bomb,0.0
+categorical__track_name_Cherry Wine - Live,0.0
+categorical__track_name_China,0.0
+categorical__track_name_Chiquitita,0.0
+categorical__track_name_Chlorine,0.0
+categorical__track_name_Cigarette Daydreams,0.0
+categorical__track_name_City Of Dreams - Radio Edit,0.0
+categorical__track_name_Cleopatra,0.0
+categorical__track_name_Clint Eastwood,0.0
+categorical__artists_Andrew Lloyd Webber;Phantom Of The Opera Original London Cast,0.0
+categorical__track_name_Closer To The Edge,0.0
+categorical__track_name_Cold Cold Cold,0.0
+categorical__track_name_Cold Heart - PNAU Remix,0.0
+categorical__track_name_Cole’s Memories - Original Mix,0.0
+categorical__track_name_Collide - Acoustic Version,0.0
+categorical__track_name_Come On Eileen,0.0
+categorical__artists_Andy & Lucas,0.0
+categorical__track_name_Come Together - Remastered 2009,0.0
+categorical__track_name_Come With Me - Radio Mix,0.0
+categorical__track_name_Come a Little Closer,0.0
+categorical__track_name_Come with Me Now,0.0
+categorical__track_name_Comfortably Numb,0.0
+categorical__track_name_Coming Over (feat. James Hersey),0.0
+categorical__track_name_Con te partirò,0.0
+categorical__track_name_Coppelia: Act I - Valse,0.0
+categorical__track_name_Corazón (feat. Nego do Borel),0.0
+categorical__track_name_Corazón partío,0.0
+categorical__track_name_Cornerstone,0.0
+categorical__track_name_Cough Syrup,0.0
+categorical__track_name_Could Have Been Me,0.0
+categorical__track_name_Counting Stars,0.0
+categorical__track_name_Coward Of The County,0.0
+categorical__track_name_Crazy,0.0
+categorical__track_name_Crazy Rap (Colt 45 & 2 Zig Zags),0.0
+categorical__track_name_Crazy Train,0.0
+categorical__track_name_Creep,0.0
+categorical__track_name_Criminal,0.0
+categorical__track_name_Crocodile Rock,0.0
+categorical__track_name_Crosses,0.0
+categorical__track_name_Cryin',0.0
+categorical__track_name_Crying,0.0
+categorical__track_name_Cuando Me Enamoro,0.0
+categorical__track_name_Cumbia Sobre el Mar,0.0
+categorical__track_name_D is for Dangerous,0.0
+categorical__track_name_Daddy Issues,0.0
+categorical__track_name_Dancing In the Dark,0.0
+categorical__track_name_Dancing Queen,0.0
+categorical__track_name_Dancing With Myself,0.0
+categorical__track_name_Dani California,0.0
+categorical__track_name_Daniel,0.0
+categorical__track_name_Danza Kuduro,0.0
+categorical__track_name_Dark Necessities,0.0
+categorical__track_name_Daughter - Remastered,0.0
+categorical__track_name_Daydream Believer,0.0
+categorical__track_name_Dayvan Cowboy,0.0
+categorical__track_name_Dead!,0.0
+categorical__track_name_Dear Angie - Remastered 2010,0.0
+"categorical__track_name_Dear Maria, Count Me In",0.0
+categorical__track_name_Dear Mr. Fantasy,0.0
+categorical__track_name_Dear Prudence - Remastered 2009,0.0
+"categorical__track_name_December, 1963 (Oh What a Night!)",0.0
+categorical__track_name_Del Mar,0.0
+categorical__track_name_Despacito,0.0
+categorical__track_name_Despacito - Remix,0.0
+categorical__track_name_Devil in Me,0.0
+categorical__track_name_Didn't I,0.0
+categorical__track_name_Die For You,0.0
+categorical__track_name_Die Wanderbiene,0.0
+categorical__track_name_Dirty Dancer,0.0
+categorical__track_name_Dirty Deeds Done Dirt Cheap,0.0
+categorical__track_name_Dirty Work,0.0
+categorical__track_name_Disenchanted,0.0
+categorical__track_name_Distance,0.0
+categorical__track_name_Divenire,0.0
+categorical__track_name_Do It Again,0.0
+categorical__track_name_Do You Want To Know A Secret - Remastered 2009,0.0
+categorical__track_name_Does Your Mother Know,0.0
+categorical__track_name_Dogs,0.0
+categorical__track_name_Don't Be Shy,0.0
+categorical__track_name_Don't Go Breaking My Heart,0.0
+categorical__track_name_Don't Look Back into the Sun,0.0
+categorical__track_name_Don't Look Down (feat. Usher),0.0
+categorical__track_name_Don't Say Goodnight,0.0
+categorical__track_name_Don't Shut Me Down,0.0
+categorical__track_name_Don't Start Now,0.0
+categorical__track_name_Don't Stop Me Now - Remastered 2011,0.0
+categorical__track_name_Don’t Blame Me,0.0
+categorical__track_name_Don’t Delete The Kisses,0.0
+categorical__track_name_Dorothy,0.0
+categorical__artists_Andy Grammer,0.0
+categorical__track_name_Drama (feat. Drake),0.0
+categorical__track_name_Dream A Little Dream Of Me,0.0
+categorical__track_name_Dream Lover,0.0
+categorical__track_name_Dreamer,0.0
+categorical__track_name_Dreaming with a Broken Heart,0.0
+categorical__track_name_Drinking from the Bottle (feat. Tinie Tempah),0.0
+categorical__track_name_Drive - 2017 Remaster,0.0
+categorical__track_name_Drive My Car - Remastered 2009,0.0
+categorical__track_name_Drop It Like It's Hot,0.0
+categorical__track_name_Drunk (And I Don't Wanna Go Home),0.0
+categorical__track_name_Dura,0.0
+categorical__artists_Antonio Garcia Isaac,0.0
+categorical__track_name_DÁKITI,0.0
+categorical__track_name_Easy,0.0
+categorical__track_name_Easy - Music From The Motion Picture Baby Driver,0.0
+categorical__track_name_Easy On Me,0.0
+categorical__track_name_Edge of Desire,0.0
+categorical__track_name_Efecto,0.0
+categorical__artists_Anuel AA;Daddy Yankee;KAROL G;J Balvin;Ozuna,0.0
+categorical__track_name_Einaudi: Una mattina,0.0
+categorical__track_name_El Amante,0.0
+categorical__track_name_El Sol No Regresa,0.0
+categorical__track_name_El Último Ska,0.0
+categorical__track_name_Eleanor Rigby - Remastered 2009,0.0
+categorical__track_name_Electric Feel,0.0
+categorical__track_name_Elegia,0.0
+categorical__track_name_Elegy For The Arctic - Remastered 2020,0.0
+categorical__artists_Anuel AA;KAROL G,0.0
+categorical__track_name_Embryonic Journey,0.0
+categorical__track_name_End of the Night,0.0
+categorical__track_name_Ends of the Earth,0.0
+categorical__track_name_Enkèn Yèlélèbesh,0.0
+categorical__track_name_Epilogue,0.0
+categorical__track_name_Eruption - 2015 Remaster,0.0
+categorical__track_name_Eternal Summer,0.0
+categorical__track_name_Europa (Earth's Cry Heaven's Smile),0.0
+categorical__track_name_Everlong,0.0
+categorical__track_name_Everybody Hurts,0.0
+categorical__track_name_Everybody Wants To Rule The World,0.0
+categorical__track_name_Everything,0.0
+categorical__track_name_Exit Music (For A Film),0.0
+categorical__track_name_Experience,0.0
+categorical__track_name_Eye of the Tiger,0.0
+categorical__track_name_Faint,0.0
+categorical__track_name_Fake Plastic Trees,0.0
+categorical__track_name_Fall for You (Acoustic),0.0
+categorical__track_name_Famous Last Words,0.0
+"categorical__track_name_Fascinados (feat. Joan Manuel Serrat, Leiva, Vetusta Morla, Iván Ferreiro, Loquillo, Zahara, Dani Martin, Albert Pla, Mikel (Izal), Noni (Lori Meyers), Santi Balmes, Xoel López, Anni B Sweet, Jeanette, Carlos Sadness, Nina (Morgan), Juan Alberto (Niños Mutantes), Miri Ros, Javiera Mena, Jorge Martí (La Habitación Roja), Rafa Val (Viva Suecia), Marc (Dorian), Alondra Bentley, Abraham Boba, Carlangas (Novedades Carminha), La Bien Querida, Martí Perarnau IV (Mucho), Nita (Fuel Fandango) & Shuarma (Elefantes))",0.0
+categorical__track_name_Fast Car,0.0
+categorical__track_name_Father And Son,0.0
+categorical__track_name_Feel Again,0.0
+categorical__track_name_Feel Good Inc.,0.0
+categorical__track_name_Feel My Needs - Purple Disco Machine Remix,0.0
+categorical__track_name_Fernando,0.0
+categorical__track_name_Fever,0.0
+categorical__track_name_Finish Line,0.0
+categorical__track_name_Fire and the Flood,0.0
+categorical__track_name_Fireflies,0.0
+categorical__track_name_Fireside,0.0
+categorical__track_name_Fireworks,0.0
+categorical__artists_Aretha Franklin,0.0
+categorical__track_name_First Date,0.0
+categorical__track_name_First Time,0.0
+categorical__track_name_Five More Hours,0.0
+categorical__track_name_Fix You,0.0
+categorical__track_name_Fixing A Hole - Remastered 2009,0.0
+categorical__track_name_Flor Pálida,0.0
+categorical__track_name_Flora,0.0
+categorical__track_name_Flower Duet,0.0
+categorical__track_name_Fluorescent Adolescent,0.0
+categorical__track_name_Fly,0.0
+categorical__track_name_Follow The Sun,0.0
+categorical__track_name_Follow You,0.0
+categorical__track_name_For No One - Remastered 2009,0.0
+categorical__track_name_For Now,0.0
+categorical__track_name_For What It's Worth,0.0
+categorical__track_name_Forces of Attraction,0.0
+categorical__track_name_Forgot About You,0.0
+categorical__track_name_Fortunate Son,0.0
+categorical__track_name_Fortune - Acoustic,0.0
+categorical__track_name_Four Dimensions,0.0
+categorical__artists_Ariana Grande;The Weeknd,0.0
+categorical__artists_AronChupa;Little Sis Nora,0.0
+categorical__track_name_Free Bird,0.0
+categorical__track_name_Free Fallin',0.0
+"categorical__track_name_Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",0.0
+categorical__track_name_From Now On,0.0
+categorical__track_name_From The Ritz To The Rubble,0.0
+categorical__track_name_Front Porch,0.0
+categorical__track_name_Fuck Tha Police,0.0
+categorical__track_name_Fuerte No Soy,0.0
+categorical__track_name_Fuori Dal Mondo - Remastered 2020,0.0
+categorical__track_name_Future Looks Good,0.0
+"categorical__track_name_Für Elise, WoO 59",0.0
+categorical__track_name_Gary's Theme - Remastered,0.0
+categorical__artists_Audioslave,0.0
+categorical__track_name_Get Down Saturday Night,0.0
+categorical__track_name_Getting Better - Remastered 2009,0.0
+categorical__track_name_Giant (with Rag'n'Bone Man),0.0
+categorical__track_name_Gimme the Loot - 2005 Remaster,0.0
+categorical__track_name_Gimme! Gimme! Gimme! (A Man After Midnight),0.0
+categorical__track_name_Give A Little Bit,0.0
+categorical__track_name_Give It Away,0.0
+categorical__track_name_Glass Onion - Remastered 2009,0.0
+categorical__track_name_God Only Knows - Mono / 1997 Remastered,0.0
+categorical__track_name_Godzilla (feat. Juice WRLD),0.0
+categorical__track_name_Gold Skies (feat. Aleesia) - Radio Edit,0.0
+categorical__track_name_Gold on the Ceiling,0.0
+categorical__track_name_Good Day Sunshine - Remastered 2009,0.0
+categorical__track_name_Good Feeling,0.0
+"categorical__track_name_Good Golly, Miss Molly",0.0
+categorical__track_name_Good Life,0.0
+categorical__track_name_Good Riddance (Time of Your Life),0.0
+categorical__track_name_Good Thing (with Kehlani),0.0
+categorical__track_name_Good Times Bad Times - 1993 Remaster,0.0
+categorical__track_name_Good Times Roll,0.0
+categorical__track_name_Good Vibrations - Remastered 2001,0.0
+categorical__track_name_Goodbye Blue Sky,0.0
+categorical__track_name_Goodbye Yellow Brick Road - Remastered 2014,0.0
+categorical__track_name_Got To Get You Into My Life - Remastered 2009,0.0
+categorical__track_name_Gotta Be Somebody,0.0
+categorical__track_name_Gratitude,0.0
+categorical__track_name_Gravity,0.0
+categorical__track_name_Great Balls of Fire,0.0
+categorical__track_name_Guarisci il mio Cuore,0.0
+categorical__track_name_Guerrilla Radio,0.0
+categorical__track_name_H.O.L.Y.,0.0
+categorical__track_name_HUMBLE.,0.0
+categorical__track_name_Hail to the King,0.0
+categorical__track_name_Halftime,0.0
+categorical__track_name_Hall of Fame,0.0
+categorical__track_name_Hall of Fame (feat. will.i.am),0.0
+categorical__artists_Austyn Johnson;Cameron Seely;Hugh Jackman,0.0
+categorical__track_name_Hanoï café,0.0
+categorical__track_name_Happy Together,0.0
+categorical__track_name_Hard Sun,0.0
+categorical__track_name_Hard To Explain,0.0
+categorical__track_name_Hard To Handle,0.0
+categorical__track_name_Harry & Hermione,0.0
+categorical__track_name_Harry in Winter,0.0
+categorical__track_name_Harvest Moon,0.0
+categorical__track_name_Hate To Say I Told You So,0.0
+categorical__track_name_Have a Cigar,0.0
+categorical__track_name_Hawái,0.0
+categorical__track_name_Headlights (feat. Ilsey),0.0
+categorical__track_name_Heart In a Cage,0.0
+categorical__track_name_Heart Of Glass - Special Mix,0.0
+categorical__track_name_Heart-Shaped Box,0.0
+categorical__artists_Avenged Sevenfold,0.0
+categorical__track_name_Heartbeats,0.0
+categorical__track_name_Heartbreak Warfare,0.0
+categorical__track_name_Heartbreaker - 1990 Remaster,0.0
+categorical__artists_Aventura;Bad Bunny,0.0
+categorical__track_name_Heathens,0.0
+categorical__artists_Avicii,0.0
+categorical__track_name_Heaven Is a Place On Earth,0.0
+categorical__track_name_Heaven Knows I'm Miserable Now - 2011 Remaster,0.0
+categorical__track_name_Heavy Soul,0.0
+categorical__track_name_Helena,0.0
+categorical__track_name_Hellbound Train,0.0
+"categorical__track_name_Hello, Goodbye - Remastered 2009",0.0
+categorical__track_name_Help! - Remastered 2009,0.0
+categorical__track_name_Helplessly Hoping - 2005 Remaster,0.0
+categorical__track_name_Henrietta,0.0
+categorical__track_name_Here Comes The Sun - Remastered 2009,0.0
+categorical__track_name_Here I Go,0.0
+categorical__track_name_Here Without You,0.0
+"categorical__track_name_Here, There And Everywhere - Remastered 2009",0.0
+categorical__track_name_Heroes (we could be),0.0
+categorical__track_name_Heroin,0.0
+categorical__track_name_Hey DJ,0.0
+categorical__track_name_Hey Jude - Remastered 2015,0.0
+"categorical__track_name_Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",0.0
+categorical__track_name_Hey Mor,0.0
+categorical__track_name_Hey There Delilah,0.0
+categorical__track_name_Hey You,0.0
+"categorical__track_name_Hey, Soul Sister",0.0
+categorical__track_name_High and Dry,0.0
+categorical__track_name_Higher Love,0.0
+categorical__track_name_Higher Place - Radio Edit,0.0
+categorical__track_name_Highway Star,0.0
+categorical__track_name_Highway Tune,0.0
+categorical__track_name_Highway to Hell,0.0
+categorical__track_name_Hitchhiking,0.0
+categorical__track_name_Hold Me Closer,0.0
+categorical__track_name_Hold On (feat. Cheat Codes) - 2020 Edit,0.0
+categorical__track_name_Holiday,0.0
+categorical__track_name_Holiday / Boulevard of Broken Dreams,0.0
+categorical__track_name_Home,0.0
+"categorical__track_name_Honey, I'm Good.",0.0
+categorical__track_name_Hooked On A Feeling,0.0
+categorical__track_name_Hotel California - 2013 Remaster,0.0
+categorical__track_name_Hound Dog,0.0
+categorical__track_name_House of Wolves,0.0
+categorical__track_name_House of the Rising Sun,0.0
+categorical__track_name_How Deep Is Your Love,0.0
+categorical__track_name_How Far We've Come,0.0
+categorical__track_name_How Hard I Try,0.0
+categorical__track_name_How to Disappear Completely,0.0
+categorical__track_name_How to Save a Life,0.0
+categorical__track_name_Howlin' for You,0.0
+categorical__track_name_Human,0.0
+categorical__track_name_Hungry Eyes,0.0
+categorical__track_name_Hurricane,0.0
+categorical__track_name_Hurt,0.0
+categorical__track_name_Hush - 1998 Remaster,0.0
+categorical__track_name_Hymn for the Weekend,0.0
+categorical__track_name_Hypnotize - 2007 Remaster,0.0
+categorical__track_name_Hypnotized,0.0
+categorical__track_name_I Ain’t Quite Where I Think I Am,0.0
+categorical__track_name_I Am The Walrus - Remastered 2009,0.0
+categorical__track_name_I Bet You Look Good On The Dancefloor,0.0
+categorical__track_name_I Can Be That Woman,0.0
+categorical__track_name_I Can't Win,0.0
+categorical__track_name_I Didn't Change My Number,0.0
+categorical__track_name_I Don't Love You,0.0
+categorical__track_name_I Drink Wine,0.0
+categorical__track_name_I Drove All Night,0.0
+categorical__track_name_I Feel Free,0.0
+categorical__track_name_I Follow Rivers - The Magician Remix,0.0
+categorical__track_name_I Found a Reason - 2015 Remaster,0.0
+categorical__track_name_I Giorni,0.0
+categorical__track_name_I Guess That's Why They Call It The Blues,0.0
+categorical__track_name_I Have Seen,0.0
+categorical__track_name_I Like It,0.0
+categorical__track_name_I Lived,0.0
+categorical__track_name_I Me Mine - Remastered 2009,0.0
+categorical__track_name_I Need You - Remastered 2009,0.0
+categorical__track_name_I Never Wanted Love,0.0
+categorical__track_name_I Quit Drinking,0.0
+categorical__track_name_I Saw Her Standing There - Remastered 2009,0.0
+categorical__track_name_I Say a Little Prayer,0.0
+categorical__track_name_I See Red,0.0
+categorical__track_name_I Should Have Known Better - Remastered 2009,0.0
+categorical__track_name_I Wanna Be Your Dog,0.0
+categorical__track_name_I Wanna Be Yours,0.0
+categorical__track_name_I Want It All,0.0
+categorical__track_name_I Want To Break Free,0.0
+categorical__track_name_I Was Born To Love You,0.0
+categorical__track_name_I'll Follow The Sun - Remastered 2009,0.0
+categorical__track_name_I'll See You in My Dreams,0.0
+categorical__track_name_I'm Happy Just To Dance With You - Remastered 2009,0.0
+categorical__track_name_I'm Just a Kid,0.0
+categorical__track_name_I'm Looking Through You - Remastered 2009,0.0
+categorical__track_name_I'm Not Okay (I Promise),0.0
+categorical__artists_Avicii;Sandro Cavazza,0.0
+categorical__track_name_I'm On Fire,0.0
+categorical__track_name_I'm Only Sleeping - Remastered 2009,0.0
+categorical__track_name_I'm Yours,0.0
+categorical__track_name_I'm a Believer - 2006 Remaster,0.0
+categorical__track_name_I'm an Albatraoz,0.0
+categorical__track_name_I've Got A Feeling - Remastered 2009,0.0
+categorical__track_name_I've Got a Woman,0.0
+categorical__track_name_I've Just Seen A Face - Remastered 2009,0.0
+categorical__track_name_IDGAF,0.0
+categorical__track_name_INDUSTRY BABY (feat. Jack Harlow),0.0
+categorical__track_name_Icky Thump,0.0
+"categorical__track_name_If I Go, I'm Goin",0.0
+categorical__track_name_If I Lose Myself,0.0
+categorical__artists_Bad Bunny;Bomba Estéreo,0.0
+categorical__track_name_If You Want Blood (You've Got It),0.0
+"categorical__track_name_If You Want To Sing Out, Sing Out",0.0
+"categorical__track_name_Il barbiere di Siviglia (The Barber of Seville), Act I: Cavatina: Largo al factotum della citta",0.0
+categorical__track_name_Imagine - Remastered 2010,0.0
+categorical__track_name_Immigrant Song - Remaster,0.0
+categorical__track_name_In Case You Didn’t Know,0.0
+categorical__track_name_In Da Getto,0.0
+categorical__track_name_In My Life - Remastered 2009,0.0
+categorical__track_name_In Noctem,0.0
+categorical__track_name_In Too Deep,0.0
+categorical__track_name_In Your Arms (with X Ambassadors),0.0
+categorical__track_name_In the End,0.0
+categorical__track_name_In the Flesh?,0.0
+categorical__track_name_In the Summertime,0.0
+categorical__track_name_Indian Yellow,0.0
+categorical__track_name_Inside Friend (feat. John Mayer),0.0
+categorical__track_name_Insurreccion (En Directo),0.0
+categorical__track_name_Interstate Love Song - 2019 Remaster,0.0
+categorical__track_name_Interstellar Overdrive,0.0
+categorical__track_name_Iron Man (2009 - Remaster),0.0
+categorical__track_name_Is There Anybody Out There?,0.0
+categorical__track_name_Is This It,0.0
+categorical__track_name_Island In The Sun,0.0
+categorical__track_name_Islands in the Stream,0.0
+categorical__track_name_It Ain't Hard to Tell,0.0
+categorical__track_name_It Ain't Me (with Selena Gomez),0.0
+categorical__track_name_It Was A Good Day,0.0
+categorical__track_name_It's Beginning to Look a Lot like Christmas,0.0
+categorical__track_name_It's Only Love - Remastered 2009,0.0
+categorical__track_name_It's a Long Way to the Top (If You Wanna Rock 'N' Roll),0.0
+categorical__track_name_It's a Small World After All,0.0
+categorical__track_name_Ivy,0.0
+categorical__track_name_Jackie And Wilson,0.0
+categorical__track_name_Jailhouse Rock,0.0
+categorical__track_name_Jambalaya (On The Bayou),0.0
+categorical__track_name_Jesus of Suburbia,0.0
+categorical__track_name_Jet Lag (feat. Natasha Bedingfield),0.0
+categorical__track_name_Jet Skis On The Moat,0.0
+categorical__track_name_Jigsaw Falling Into Place,0.0
+categorical__artists_Bad Bunny;Chencho Corleone,0.0
+categorical__track_name_Johnny B. Goode,0.0
+categorical__artists_Bad Bunny;Drake,0.0
+categorical__track_name_Juicy - 2005 Remaster,0.0
+categorical__track_name_Juicy - 2007 Remaster,0.0
+categorical__track_name_Julia - Remastered 2009,0.0
+categorical__track_name_Jumper - 1998 Edit,0.0
+categorical__track_name_Jungle,0.0
+categorical__artists_Bad Bunny;Jhay Cortez,0.0
+categorical__track_name_Just Like Heaven,0.0
+categorical__track_name_Just the Way You Are,0.0
+categorical__artists_Bad Bunny;Rauw Alejandro,0.0
+categorical__track_name_Karma Police,0.0
+categorical__track_name_Keep Your Head Up,0.0
+categorical__track_name_Kids,0.0
+categorical__track_name_Kilby Girl,0.0
+categorical__track_name_Killing In The Name,0.0
+categorical__track_name_Kings And Queens,0.0
+categorical__track_name_Knee Socks,0.0
+categorical__track_name_Knockin' On Heaven's Door,0.0
+categorical__track_name_Know Your Enemy,0.0
+categorical__track_name_Kryptonite,0.0
+categorical__track_name_L-O-V-E,0.0
+categorical__track_name_LA CANCIÓN,0.0
+categorical__track_name_La Curiosidad,0.0
+categorical__track_name_La Gioconda / Act 3: Dance Of The Hours,0.0
+categorical__track_name_La Grange - 2005 Remaster,0.0
+categorical__track_name_La Loba del Mar,0.0
+categorical__track_name_La Que Me Gusta,0.0
+categorical__track_name_La Vuelta Al Mundo,0.0
+"categorical__track_name_La fille du régiment / Act 1: Ah! mes amis, quel jour de fête!",0.0
+categorical__track_name_La traviata / Act I: Libiamo ne'lieti calici,0.0
+categorical__track_name_Ladies and gentlemen we are floating in space,0.0
+categorical__track_name_Lady Madonna - Remastered 2015,0.0
+categorical__track_name_Lady Madrid,0.0
+categorical__track_name_Laid,0.0
+categorical__track_name_Largo Rv. 443 For Guitar,0.0
+categorical__track_name_Last Christmas,0.0
+categorical__track_name_Last Nite,0.0
+categorical__track_name_Last Request,0.0
+categorical__artists_Bad Bunny;Tainy,0.0
+"categorical__track_name_Latinoamérica (feat. Totó la Momposina, Susana Baca & Maria Rita)",0.0
+categorical__track_name_Lay All Your Love On Me,0.0
+categorical__track_name_Layla,0.0
+categorical__track_name_Le Onde,0.0
+categorical__track_name_Learning to Fly,0.0
+categorical__track_name_Leave Before You Love Me (with Jonas Brothers),0.0
+"categorical__track_name_Les Contes d'Hoffmann / Act III: Barcarolle (Arr. for Violin, Cello, Piano and String Ensemble by Aleksandar Sedlar)",0.0
+categorical__track_name_Let It Be - Remastered 2015,0.0
+categorical__track_name_Let It Snow! Let It Snow! Let It Snow!,0.0
+categorical__track_name_Let Me Reach That Mountain,0.0
+categorical__track_name_Let There Be Rock,0.0
+categorical__track_name_Let's Groove,0.0
+categorical__track_name_Levitating,0.0
+categorical__track_name_Ley Seca,0.0
+categorical__track_name_Life Goes On,0.0
+categorical__track_name_Life in the Fast Lane - 2013 Remaster,0.0
+categorical__track_name_Life is a Highway,0.0
+categorical__track_name_Life's a Bitch (feat. AZ & Olu Dara),0.0
+categorical__track_name_Light My Fire,0.0
+categorical__track_name_Light Touch,0.0
+categorical__track_name_Light of the Seven,0.0
+categorical__track_name_Like a Stone,0.0
+categorical__track_name_Limbo,0.0
+categorical__track_name_Limelight,0.0
+categorical__track_name_Little Do You Know,0.0
+categorical__track_name_Little Lion Man,0.0
+categorical__track_name_Little Talks,0.0
+categorical__track_name_Little Wing,0.0
+categorical__track_name_Livin' On A Prayer,0.0
+categorical__track_name_Lloran las Rosas,0.0
+categorical__track_name_Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),0.0
+categorical__track_name_Locked Away (feat. Adam Levine),0.0
+categorical__track_name_Locked out of Heaven,0.0
+categorical__track_name_Loco,0.0
+categorical__track_name_Loco Contigo (feat. J. Balvin & Tyga),0.0
+categorical__track_name_London Calling - Remastered,0.0
+categorical__track_name_London's Song,0.0
+categorical__track_name_Lonely Boy,0.0
+categorical__track_name_Look After You,0.0
+categorical__artists_Bad Bunny;The Marías,0.0
+categorical__artists_Badfinger,0.0
+categorical__track_name_Losing My Religion,0.0
+categorical__track_name_Lost in the Fire (feat. The Weeknd),0.0
+categorical__track_name_Love & Hate,0.0
+categorical__track_name_Love Drunk,0.0
+categorical__track_name_Love Is a Bitch,0.0
+categorical__track_name_Love Me Do - Remastered 2009,0.0
+categorical__track_name_Love Me Harder,0.0
+"categorical__track_name_Love Me Tender - From the 20th Century-Fox CinemaScope Production, ""Love Me Tender""",0.0
+categorical__track_name_Love Will Tear Us Apart,0.0
+categorical__track_name_Love You To - Remastered 2009,0.0
+categorical__track_name_Love Yourself,0.0
+categorical__track_name_Love is a Laserquest,0.0
+categorical__track_name_Love on the Weekend,0.0
+categorical__track_name_Lovely Day,0.0
+categorical__track_name_Lover,0.0
+categorical__track_name_Lovesick Blues - Single Version,0.0
+categorical__track_name_Lucky,0.0
+categorical__track_name_Lucy In The Sky With Diamonds - Remastered 2009,0.0
+categorical__track_name_Luminous,0.0
+categorical__track_name_Lust For Life,0.0
+categorical__track_name_MIA (feat. Drake),0.0
+categorical__track_name_Machu Picchu,0.0
+categorical__track_name_Mack the Knife,0.0
+categorical__track_name_Maggie Mae - Remastered 2009,0.0
+categorical__track_name_Maggot Brain,0.0
+categorical__track_name_Main Titles,0.0
+"categorical__track_name_Mama, I'm Coming Home",0.0
+categorical__track_name_Mannish Boy,0.0
+categorical__track_name_Mardy Bum,0.0
+categorical__track_name_Maria,0.0
+categorical__track_name_Martha My Dear - Remastered 2009,0.0
+categorical__track_name_Mary Had a Little Lamb,0.0
+categorical__track_name_Masquerade,0.0
+categorical__track_name_Maxwell's Silver Hammer - Remastered 2009,0.0
+categorical__track_name_Me & Magdalena,0.0
+categorical__track_name_Me And My Broken Heart,0.0
+categorical__track_name_Me Porto Bonito,0.0
+categorical__track_name_Me Rehúso,0.0
+categorical__track_name_Mean It,0.0
+categorical__track_name_Mediterráneo,0.0
+categorical__track_name_Meet Me in the Bathroom,0.0
+categorical__track_name_Memory Box,0.0
+categorical__track_name_Merry Christmas Everyone,0.0
+categorical__track_name_Mess Is Mine,0.0
+categorical__track_name_Mi Gente,0.0
+categorical__track_name_Mi Princesa,0.0
+categorical__artists_Baltimora,0.0
+categorical__track_name_Mil Tequilas,0.0
+categorical__track_name_Milano,0.0
+categorical__track_name_Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music,0.0
+categorical__track_name_Miserable Man,0.0
+categorical__track_name_Money,0.0
+"categorical__track_name_Money, Money, Money",0.0
+categorical__track_name_Monkey Wrench,0.0
+categorical__track_name_Moonshadow - Remastered 2021,0.0
+categorical__track_name_More Than A Woman - SG's Paradise Edit,0.0
+categorical__track_name_More Than a Feeling,0.0
+categorical__track_name_Mother,0.0
+categorical__track_name_Movement,0.0
+categorical__track_name_Mr Schwartz,0.0
+categorical__track_name_Mr. Brightside,0.0
+"categorical__track_name_Mrs. Robinson - From ""The Graduate"" Soundtrack",0.0
+categorical__track_name_Music Sounds Better with You,0.0
+categorical__track_name_Music When The Lights Go Out,0.0
+categorical__track_name_My Girl,0.0
+categorical__track_name_My Love (feat. Jess Glynne),0.0
+categorical__track_name_My Sweet Lord - Remastered 2014,0.0
+categorical__track_name_My Way (feat. Monty),0.0
+categorical__track_name_My fellow creatures,0.0
+categorical__track_name_N.Y. State of Mind,0.0
+categorical__artists_Bastille,0.0
+categorical__track_name_Na Na Na (Na Na Na Na Na Na Na Na Na),0.0
+categorical__track_name_Natural,0.0
+categorical__track_name_Natural Light,0.0
+categorical__track_name_NbHD,0.0
+categorical__artists_Becky G,0.0
+categorical__track_name_Neon,0.0
+categorical__track_name_Never Enough,0.0
+categorical__track_name_Never Gonna Forget (with Diplo feat. Elderbrook),0.0
+categorical__track_name_Never Tear Us Apart,0.0
+categorical__track_name_Never in My Wildest Dreams,0.0
+categorical__track_name_New Divide,0.0
+categorical__track_name_New Rules,0.0
+categorical__track_name_New Star,0.0
+categorical__track_name_New York State of Mind,0.0
+categorical__track_name_No Eyes - Radio Edit,0.0
+categorical__track_name_No Guidance (feat. Drake),0.0
+categorical__track_name_No Me Conoce - Remix,0.0
+categorical__artists_Bee Gees,0.0
+categorical__artists_Bee Gees;SG Lewis,0.0
+categorical__artists_Belinda Carlisle,0.0
+categorical__artists_Ben E. King,0.0
+categorical__track_name_No Surprise,0.0
+categorical__artists_Ben Howard,0.0
+categorical__track_name_No Vacancy,0.0
+categorical__track_name_No. 1 Party Anthem,0.0
+categorical__track_name_Nobody But Me,0.0
+categorical__track_name_Nobody Home,0.0
+categorical__track_name_Noche Sin Luciérnagas,0.0
+"categorical__track_name_Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",0.0
+"categorical__track_name_Norma / Act 1 Scene 1: ""Casta Diva"" (Critical Ed. Maurizio Biondi and Riccardo Minasi)",0.0
+categorical__track_name_Norwegian Wood (This Bird Has Flown) - Remastered 2009,0.0
+categorical__track_name_Not Afraid,0.0
+categorical__track_name_November Rain,0.0
+categorical__track_name_Nude,0.0
+categorical__track_name_Numb,0.0
+categorical__track_name_Nuvole Bianche,0.0
+categorical__track_name_O Mio Babbino Caro,0.0
+"categorical__track_name_Ob-La-Di, Ob-La-Da - Remastered 2009",0.0
+categorical__track_name_Oblivius,0.0
+categorical__track_name_Ode To The Mets,0.0
+categorical__track_name_Oh Love,0.0
+categorical__track_name_Oh Very Young,0.0
+categorical__track_name_Oh! Darling - Remastered 2009,0.0
+categorical__track_name_Oh! Sweet Nuthin' - 2015 Remaster,0.0
+"categorical__track_name_Oh, Pretty Woman",0.0
+categorical__track_name_Ojitos Lindos,0.0
+categorical__track_name_Old Pine,0.0
+categorical__track_name_On Melancholy Hill,0.0
+categorical__track_name_On the Nature of Daylight,0.0
+categorical__track_name_On the Run,0.0
+categorical__track_name_Once,0.0
+categorical__track_name_Once I Was,0.0
+categorical__track_name_One Dance,0.0
+categorical__track_name_One For The Road,0.0
+categorical__track_name_One Kiss (with Dua Lipa) - Valentino Khan Remix,0.0
+categorical__track_name_One More Night,0.0
+categorical__track_name_One Of These Things First,0.0
+categorical__track_name_One Way Trigger,0.0
+categorical__track_name_One of My Turns,0.0
+categorical__artists_Beny Moré,0.0
+categorical__track_name_Only Love,0.0
+categorical__track_name_Only You,0.0
+categorical__track_name_Only for You,0.0
+categorical__track_name_Ooh La La,0.0
+categorical__track_name_Ophelia,0.0
+categorical__artists_Bill Evans,0.0
+"categorical__track_name_Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",0.0
+categorical__track_name_Ordino,0.0
+categorical__track_name_Otro Atardecer,0.0
+categorical__track_name_Our House,0.0
+categorical__track_name_Over My Head (Cable Car),0.0
+categorical__track_name_Over Now (with The Weeknd),0.0
+categorical__track_name_Over the Hills and Far Away - Remaster,0.0
+categorical__track_name_Oxytocin,0.0
+categorical__track_name_Oye Como Va,0.0
+categorical__track_name_PILLOWTALK,0.0
+"categorical__track_name_Paint It, Black",0.0
+categorical__track_name_Pale Blue Eyes,0.0
+categorical__track_name_Paranoid (2009 - Remaster),0.0
+categorical__track_name_Paranoid Android,0.0
+categorical__track_name_Parrot Cay,0.0
+categorical__track_name_Party,0.0
+categorical__track_name_Pasajera En Trance - Live,0.0
+categorical__track_name_Passing Rain,0.0
+categorical__track_name_Peace Train - Remastered 2021,0.0
+categorical__track_name_Peace of Mind,0.0
+categorical__track_name_People Change,0.0
+categorical__track_name_Pepas,0.0
+categorical__artists_Bill Withers,0.0
+categorical__track_name_Perfect Day,0.0
+categorical__track_name_Perfect Sense,0.0
+categorical__track_name_Perhaps Vampires Is A Bit Strong But…,0.0
+categorical__track_name_Photograph,0.0
+categorical__artists_Billy Idol,0.0
+categorical__track_name_Pic Nic En El 4° B - Remasterizado 2007,0.0
+categorical__track_name_Picky,0.0
+categorical__track_name_Pictures,0.0
+categorical__track_name_Pictures Of You - Remastered,0.0
+categorical__track_name_Piece Of Your Heart,0.0
+categorical__track_name_Pienso en Aquella Tarde,0.0
+categorical__track_name_Pigs (Three Different Ones),0.0
+categorical__track_name_Pigs on the Wing 2,0.0
+categorical__track_name_Piledriver Waltz,0.0
+categorical__track_name_Pinball Wizard,0.0
+categorical__track_name_Pink Moon,0.0
+categorical__track_name_Play with Fire (feat. Yacht Money),0.0
+categorical__track_name_Play with Me,0.0
+categorical__track_name_Please Don't Say You Love Me,0.0
+categorical__track_name_Please Mister Postman - Remastered 2009,0.0
+categorical__track_name_Please Please Me - Remastered 2009,0.0
+"categorical__track_name_Please, Please, Please, Let Me Get What I Want - 2011 Remaster",0.0
+categorical__track_name_Poison,0.0
+categorical__track_name_Polythene Pam - Remastered 2009,0.0
+categorical__track_name_Pompeii,0.0
+categorical__track_name_Pony,0.0
+"categorical__track_name_Portland, Maine",0.0
+categorical__track_name_Prayer in C - Robin Schulz Radio Edit,0.0
+categorical__track_name_Pride and Joy,0.0
+categorical__track_name_Primavera,0.0
+categorical__track_name_Princesa bacana,0.0
+categorical__track_name_Princesas,0.0
+categorical__track_name_Pumped Up Kicks,0.0
+categorical__track_name_Purple Haze,0.0
+categorical__track_name_QUE PRETENDES,0.0
+categorical__track_name_Que Tire Pa Lante,0.0
+"categorical__track_name_Quevedo: Bzrp Music Sessions, Vol. 52",0.0
+categorical__artists_Bishop Briggs,0.0
+"categorical__track_name_Quizás, Quizás, Quizás",0.0
+categorical__track_name_Qué Más Pues?,0.0
+categorical__track_name_Ready to Die - 2006 Remaster,0.0
+categorical__track_name_Reckless,0.0
+categorical__track_name_Reckless Serenade,0.0
+"categorical__track_name_Red Light Green Light - For Club Play Only, Pt. 6",0.0
+categorical__track_name_Red Lights,0.0
+categorical__track_name_Redemption Song,0.0
+categorical__track_name_Reggaetón Lento (Bailemos),0.0
+categorical__artists_Bizarrap;Quevedo,0.0
+categorical__track_name_Renegades,0.0
+categorical__artists_Black Coffee;Diplo;Elderbrook,0.0
+categorical__track_name_Rescue Me,0.0
+categorical__track_name_Return To Love,0.0
+categorical__track_name_Reunion,0.0
+categorical__track_name_Rewrite The Stars,0.0
+categorical__track_name_Rhinestone Eyes,0.0
+categorical__track_name_Rich Love (with Seeb),0.0
+categorical__track_name_Ride,0.0
+categorical__track_name_Riding with the King,0.0
+categorical__track_name_Right Before My Eyes - Unpeeled,0.0
+categorical__track_name_Riot Van,0.0
+categorical__track_name_Ripple - 2013 Remaster,0.0
+categorical__track_name_Riptide,0.0
+categorical__track_name_Rise,0.0
+categorical__track_name_River,0.0
+categorical__track_name_Rivers and Roads,0.0
+categorical__track_name_Road Trippin',0.0
+categorical__track_name_Rock N Roll Train,0.0
+categorical__track_name_Rock You Like a Hurricane - 2011,0.0
+categorical__track_name_Rockin' Around The Christmas Tree,0.0
+categorical__artists_Black Sabbath,0.0
+categorical__track_name_Rodolfo el Reno,0.0
+categorical__track_name_Roll Over Beethoven,0.0
+categorical__track_name_Roll Over Beethoven - Remastered 2009,0.0
+categorical__track_name_Rollercoaster,0.0
+categorical__track_name_Rolling Like A Ball,0.0
+categorical__track_name_Rompe,0.0
+categorical__track_name_Rope,0.0
+categorical__track_name_Rosas,0.0
+categorical__track_name_Rosie,0.0
+categorical__track_name_Rowing,0.0
+categorical__track_name_Rude,0.0
+categorical__track_name_Run,0.0
+categorical__track_name_Run For Your Life - Remastered 2009,0.0
+categorical__track_name_Run That Race,0.0
+categorical__track_name_Runaway,0.0
+categorical__track_name_Runaway (U & I),0.0
+categorical__track_name_Running Up That Hill (A Deal With God),0.0
+categorical__track_name_SEJODIOTO,0.0
+categorical__track_name_SICKO MODE,0.0
+categorical__track_name_SOS,0.0
+categorical__track_name_SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),0.0
+categorical__track_name_Sacrifice,0.0
+categorical__track_name_Safari,0.0
+categorical__track_name_Safari Strut,0.0
+categorical__track_name_Santeria,0.0
+categorical__track_name_Satellite of Love,0.0
+categorical__track_name_Saturday Night’s Alright (For Fighting) - Remastered 2014,0.0
+categorical__track_name_Saturday Sun,0.0
+categorical__track_name_Save Your Tears,0.0
+categorical__track_name_Savior,0.0
+categorical__track_name_Say,0.0
+categorical__track_name_Say Something,0.0
+categorical__track_name_Sculptures Of Anything Goes,0.0
+categorical__track_name_Se Preparó,0.0
+categorical__track_name_Secreto,0.0
+categorical__track_name_Secrets,0.0
+categorical__track_name_Sedated,0.0
+"categorical__track_name_See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",0.0
+categorical__artists_Bleachers,0.0
+categorical__track_name_Selfless,0.0
+categorical__track_name_Send Me On My Way,0.0
+categorical__track_name_September,0.0
+categorical__track_name_Seve - Radio Edit,0.0
+categorical__track_name_Señorita,0.0
+categorical__track_name_Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,0.0
+categorical__track_name_Shaky Shaky,0.0
+categorical__track_name_Shape of You,0.0
+categorical__track_name_Sharp Dressed Man - 2008 Remaster,0.0
+categorical__track_name_She,0.0
+categorical__track_name_She Came In Through The Bathroom Window - Remastered 2009,0.0
+categorical__track_name_She Said She Said - Remastered 2009,0.0
+categorical__track_name_She's Always a Woman,0.0
+categorical__track_name_She's Got a Way,0.0
+categorical__track_name_She's Leaving Home - Remastered 2009,0.0
+categorical__track_name_She's Thunderstorms,0.0
+categorical__track_name_Sheep,0.0
+categorical__track_name_Shine On You Crazy Diamond (Pts. 6-9),0.0
+categorical__track_name_Ships + Tides,0.0
+categorical__track_name_Shoot to Thrill,0.0
+categorical__track_name_Shot in the Dark,0.0
+categorical__track_name_Should I Stay or Should I Go - Remastered,0.0
+categorical__track_name_Show Me How to Live,0.0
+categorical__track_name_Shower,0.0
+categorical__track_name_Shrike,0.0
+categorical__track_name_Si Veo a Tu Mamá,0.0
+categorical__track_name_Silenced By The Night,0.0
+categorical__track_name_Simple Man,0.0
+categorical__track_name_Since I've Been Loving You - Remaster,0.0
+categorical__track_name_Sinister Kid,0.0
+categorical__track_name_Six Feet Under,0.0
+categorical__track_name_Skinny Love,0.0
+categorical__track_name_Slipping Through My Fingers,0.0
+categorical__artists_Bleu Toucan,0.0
+categorical__track_name_Small Things,0.0
+categorical__track_name_Smile,0.0
+categorical__artists_Blondie,0.0
+categorical__track_name_Snap Out Of It,0.0
+categorical__track_name_Snow (Hey Oh),0.0
+categorical__track_name_Snowman,0.0
+categorical__track_name_So Good At Being in Trouble,0.0
+"categorical__track_name_So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",0.0
+categorical__track_name_Society,0.0
+categorical__artists_Blue Swede;Björn Skifs,0.0
+categorical__track_name_Solamente Una Vez,0.0
+categorical__track_name_Solo (feat. Demi Lovato),0.0
+categorical__track_name_Soma,0.0
+categorical__track_name_Somebody To Love,0.0
+categorical__track_name_Somebody Told Me,0.0
+categorical__track_name_Someday,0.0
+categorical__track_name_Someday - Acoustic,0.0
+categorical__track_name_Someone New,0.0
+categorical__track_name_Something - Remastered 2009,0.0
+categorical__track_name_Something I Need,0.0
+categorical__artists_Boards of Canada,0.0
+categorical__track_name_Somewhere I Belong,0.0
+categorical__track_name_Somewhere Only We Know (feat. Darren Criss),0.0
+categorical__track_name_Son Of A Preacher Man,0.0
+categorical__track_name_Song To Sing When I'm Lonely,0.0
+categorical__track_name_Song to the Siren - Take 7,0.0
+categorical__track_name_Sonnen Diamant,0.0
+categorical__track_name_Sorry,0.0
+categorical__track_name_Soul Kitchen,0.0
+categorical__track_name_Splish Splash,0.0
+categorical__track_name_Stacy's Mom,0.0
+categorical__track_name_Stairway to Heaven - Remaster,0.0
+categorical__track_name_Stand by Me,0.0
+categorical__track_name_Starboy,0.0
+categorical__track_name_Start Me Up - Remastered 2009,0.0
+categorical__track_name_Stay Alive,0.0
+categorical__artists_Bob Dylan,0.0
+categorical__track_name_Steal My Girl,0.0
+categorical__track_name_Step Out,0.0
+categorical__track_name_Still Breathing,0.0
+categorical__track_name_Still D.R.E.,0.0
+categorical__track_name_Still into You,0.0
+categorical__track_name_Stomp Me Out,0.0
+categorical__track_name_Stop,0.0
+categorical__track_name_Stop This Train,0.0
+categorical__track_name_Straight Outta Compton,0.0
+categorical__track_name_Strawberry Fields Forever - Remastered 2009,0.0
+categorical__track_name_Streets,0.0
+categorical__track_name_Struck By Clouds,0.0
+categorical__track_name_Stuck on You,0.0
+categorical__track_name_Such A Simple Thing,0.0
+categorical__track_name_Sucker,0.0
+categorical__artists_Bon Iver,0.0
+"categorical__track_name_Sugar, We're Goin Down",0.0
+categorical__track_name_Sultans Of Swing,0.0
+categorical__artists_Bon Jovi,0.0
+categorical__track_name_Summer Of '69,0.0
+categorical__track_name_Summer Paradise (feat. Sean Paul) - Single Version,0.0
+categorical__track_name_Sun Goes Down (feat. Jasmine Thompson) - Radio Mix,0.0
+categorical__track_name_Sun King - Remastered 2009,0.0
+"categorical__track_name_Sunday - KlangTherapeuten ""Looking For Summer"" Remix",0.0
+categorical__track_name_Sunlight,0.0
+categorical__artists_Bonnie Tyler,0.0
+categorical__track_name_Sunshine Of Your Love,0.0
+categorical__track_name_Superheroes,0.0
+categorical__artists_Boston,0.0
+categorical__track_name_Supersonic Rocket Ship,0.0
+categorical__track_name_Surfin' U.S.A. - Remastered 2001,0.0
+categorical__track_name_Suspicious Minds,0.0
+categorical__track_name_Swan Upon Leda,0.0
+categorical__track_name_Sway (Quien Sera),0.0
+categorical__artists_Boyce Avenue,0.0
+categorical__artists_Boyce Avenue;Bea Miller,0.0
+categorical__track_name_Sweet Emotion,0.0
+categorical__track_name_Sweetie Little Jean,0.0
+categorical__track_name_Swordfish,0.0
+categorical__track_name_Sylvia: Act III: Divertissement: Variation - Valse,0.0
+categorical__track_name_Sylvia: Pizzicato,0.0
+categorical__track_name_Sígueme Y Te Sigo,0.0
+categorical__track_name_T.N.T.,0.0
+categorical__artists_Boyce Avenue;Kina Grannis,0.0
+categorical__track_name_Take Five,0.0
+categorical__track_name_Take It Easy - 2013 Remaster,0.0
+categorical__track_name_Take It Or Leave It,0.0
+categorical__track_name_Take It Out On Me,0.0
+categorical__track_name_Take Me To Church,0.0
+categorical__track_name_Talk,0.0
+categorical__track_name_Tangerine - Remaster,0.0
+categorical__track_name_Tanto la Queria,0.0
+categorical__track_name_Tarregas Bodega,0.0
+categorical__track_name_Tarzan Boy,0.0
+categorical__track_name_Taxman - Remastered 2009,0.0
+categorical__track_name_Teach Your Children,0.0
+categorical__track_name_Teddy Picker,0.0
+categorical__track_name_Teenagers,0.0
+categorical__track_name_Temperature,0.0
+categorical__track_name_Temple White,0.0
+categorical__artists_Boyce Avenue;Megan Davies;Jaclyn Davies,0.0
+categorical__track_name_Tennessee Whiskey,0.0
+categorical__track_name_Tequila,0.0
+categorical__track_name_Thank You For The Music,0.0
+categorical__track_name_That's All Right,0.0
+categorical__track_name_That's Where You're Wrong,0.0
+categorical__track_name_The Air That I Breathe - 2008 Remaster,0.0
+categorical__track_name_The Anthem,0.0
+categorical__track_name_The Boxer,0.0
+categorical__track_name_The Boxer feat. Mumford & Sons and Paul Simon,0.0
+categorical__track_name_The Boys Are Back In Town,0.0
+categorical__track_name_The Business,0.0
+categorical__track_name_The Car,0.0
+"categorical__track_name_The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",0.0
+categorical__track_name_The Cave,0.0
+categorical__track_name_The Crystal Ship,0.0
+categorical__track_name_The End,0.0
+categorical__track_name_The End Has No End,0.0
+categorical__track_name_The End.,0.0
+categorical__track_name_The Final Countdown,0.0
+categorical__track_name_The Finishing,0.0
+categorical__track_name_The Flood,0.0
+categorical__track_name_The Fool On The Hill - Remastered 2009,0.0
+categorical__track_name_The Gambler,0.0
+categorical__track_name_The Great Escape,0.0
+categorical__track_name_The Greatest Show,0.0
+categorical__track_name_The Hardest Button to Button,0.0
+categorical__track_name_The Heart of Life,0.0
+categorical__track_name_The Hills,0.0
+categorical__track_name_The Kids Aren't Alright,0.0
+categorical__track_name_The Kill,0.0
+categorical__track_name_The Legend Begins,0.0
+categorical__track_name_The Lily - Piano Version,0.0
+categorical__track_name_The Logical Song - Remastered 2010,0.0
+categorical__track_name_The Long And Winding Road - Remastered 2009,0.0
+categorical__track_name_The Middle,0.0
+categorical__track_name_The Mirror (Angel Of Music),0.0
+categorical__track_name_The Night We Met (feat. Phoebe Bridgers),0.0
+categorical__track_name_The Nights,0.0
+categorical__track_name_The Only Boy Awake,0.0
+categorical__track_name_The Only Thing,0.0
+categorical__track_name_The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture,0.0
+categorical__artists_Boyce Avenue;Sarah Hyland,0.0
+categorical__track_name_The Real Slim Shady,0.0
+categorical__track_name_The River of Dreams,0.0
+categorical__track_name_The Sea,0.0
+categorical__track_name_The Sharpest Lives,0.0
+categorical__track_name_The Show Must Go On,0.0
+categorical__track_name_The Sound of Silence - Acoustic Version,0.0
+categorical__track_name_The Spirit Of Radio,0.0
+categorical__track_name_The Staunton Lick,0.0
+categorical__track_name_The Theory of Everything,0.0
+categorical__track_name_The Thin Ice,0.0
+categorical__track_name_The Times They Are A-Changin',0.0
+categorical__track_name_The Trial,0.0
+categorical__track_name_The Trouble with Wanting,0.0
+categorical__track_name_The Ultracheese,0.0
+categorical__track_name_The View From The Afternoon,0.0
+categorical__track_name_The Wedding,0.0
+categorical__track_name_The Weight - Remastered 2000,0.0
+"categorical__track_name_The Well-Tempered Clavier: Book 1, BWV 846-869: I. Prelude in C Major, BWV 846",0.0
+categorical__track_name_The Whirling Ways of Stars that Pass,0.0
+categorical__artists_Boyce Avenue;Tyler Ward,0.0
+categorical__track_name_The Winds of Winter,0.0
+categorical__track_name_The World Is Yours,0.0
+categorical__track_name_The Zephyr Song,0.0
+categorical__track_name_There Is a Light That Never Goes Out - 2011 Remaster,0.0
+categorical__track_name_Therefore I Am,0.0
+categorical__track_name_There’d Better Be A Mirrorball,0.0
+categorical__track_name_Thinkin Bout You,0.0
+categorical__track_name_Thinking out Loud,0.0
+categorical__track_name_This Boy - Remastered 2009,0.0
+categorical__track_name_This Is How I Disappear,0.0
+categorical__track_name_This Is Me,0.0
+"categorical__track_name_This Is Me - Alan Walker Relift; from ""The Greatest Showman""",0.0
+categorical__track_name_This Is War,0.0
+categorical__track_name_This Is What You Came For,0.0
+categorical__track_name_This Time Tomorrow,0.0
+categorical__track_name_This Town,0.0
+categorical__track_name_This Town (feat. Sasha Alex Sloan),0.0
+categorical__track_name_This Will Be Our Year [Mono],0.0
+categorical__track_name_Thnks fr th Mmrs,0.0
+categorical__track_name_Threat of Joy,0.0
+categorical__track_name_Three Little Birds,0.0
+categorical__track_name_Through The Echoes,0.0
+categorical__track_name_Thunder,0.0
+categorical__track_name_Thunderstruck,0.0
+categorical__track_name_Ticket To Ride - Remastered 2009,0.0
+categorical__track_name_Til the Right One Comes,0.0
+categorical__track_name_Till There Was You - Remastered 2009,0.0
+categorical__track_name_Time After Time,0.0
+categorical__track_name_Tiny Dancer,0.0
+categorical__track_name_Titanium (feat. Sia),0.0
+categorical__track_name_Tití Me Preguntó,0.0
+categorical__track_name_Todo De Ti,0.0
+categorical__track_name_Todo se transforma,0.0
+categorical__track_name_Tom Sawyer,0.0
+categorical__track_name_Tomorrow Never Knows - Remastered 2009,0.0
+categorical__track_name_Too Late To Say Goodbye,0.0
+categorical__track_name_Toroka,0.0
+categorical__track_name_Total Eclipse of the Heart,0.0
+categorical__track_name_Touch Me,0.0
+categorical__track_name_Trouble’s Coming,0.0
+categorical__track_name_Trying Your Luck,0.0
+categorical__track_name_Tu jardín con enanitos,0.0
+categorical__track_name_Tubular Bells - Pt. I,0.0
+categorical__track_name_Tumbling Dice,0.0
+categorical__track_name_Turandot / Act 3: Nessun dorma!,0.0
+"categorical__track_name_Turandot, SC 91 / Act III: ""Nessun dorma!""",0.0
+categorical__track_name_Turn! Turn! Turn! (To Everything There Is a Season),0.0
+categorical__track_name_Tush - 2006 Remaster,0.0
+categorical__track_name_Two Is Better Than One (feat. Taylor Swift),0.0
+categorical__track_name_Two Of Us - Remastered 2009,0.0
+categorical__track_name_Two Weeks,0.0
+categorical__track_name_UFO - Radio Edit,0.0
+categorical__track_name_UN DIA (ONE DAY) (Feat. Tainy),0.0
+categorical__track_name_Un Millón De Años Luz - Remasterizado 2007,0.0
+categorical__track_name_Una Mattina,0.0
+categorical__artists_Boys Like Girls;Taylor Swift,0.0
+categorical__track_name_Unathi,0.0
+categorical__track_name_Under Cover of Darkness,0.0
+categorical__track_name_Underwater,0.0
+categorical__track_name_Unforgettable,0.0
+categorical__track_name_Unsteady - Erich Lee Gravity Remix,0.0
+categorical__track_name_Unwell,0.0
+categorical__track_name_Uptown Girl,0.0
+categorical__track_name_Us and Them,0.0
+categorical__artists_Brandi Carlile,0.0
+categorical__track_name_Valsa e Vinho,0.0
+categorical__track_name_Vampiro,0.0
+categorical__track_name_Vanilla Twilight,0.0
+categorical__track_name_Vera,0.0
+categorical__track_name_Vete,0.0
+categorical__artists_Brenda Lee,0.0
+categorical__track_name_Vincent,0.0
+categorical__track_name_Virus (How About Now) - Radio Edit,0.0
+categorical__track_name_Vitamin C,0.0
+categorical__track_name_Vivir Mi Vida,0.0
+categorical__track_name_Vivo per lei,0.0
+categorical__track_name_Volando - Remix,0.0
+categorical__track_name_Volví,0.0
+categorical__track_name_WHERE WE ARE,0.0
+categorical__track_name_Waiting For Love,0.0
+categorical__track_name_Waiting On the World to Change,0.0
+categorical__track_name_Waiting for the Worms,0.0
+categorical__track_name_Wake Me up When September Ends,0.0
+categorical__artists_Bruce Springsteen,0.0
+categorical__track_name_Walk,0.0
+categorical__track_name_Walk On the Wild Side,0.0
+categorical__track_name_Walk This Way,0.0
+categorical__track_name_Walk With Us - For Black Lives Matter,0.0
+categorical__track_name_Wanted,0.0
+categorical__track_name_Warning - 2005 Remaster,0.0
+"categorical__track_name_Wasteland, Baby!",0.0
+categorical__track_name_Watermelon Sugar,0.0
+categorical__track_name_Waves - Robin Schulz Radio Edit,0.0
+categorical__track_name_We Can Work It Out - Remastered 2015,0.0
+categorical__track_name_We Didn't Start the Fire,0.0
+categorical__track_name_We Don't Talk Anymore (feat. Selena Gomez),0.0
+categorical__track_name_We Have All Been Blind,0.0
+categorical__track_name_We Will Meet Once Again (with Andrea Bocelli),0.0
+categorical__track_name_We'll Be Coming Back (feat. Example),0.0
+categorical__track_name_We're Going to Be Friends,0.0
+categorical__track_name_We're Not Gonna Take It,0.0
+categorical__track_name_Welcome To The Jungle,0.0
+categorical__track_name_Welcome to Paradise,0.0
+categorical__track_name_Welcome to the Black Parade,0.0
+categorical__track_name_Welcome to the Machine,0.0
+categorical__track_name_West End Girls - 2018 Remaster,0.0
+categorical__track_name_What A Time (feat. Niall Horan),0.0
+categorical__track_name_What Ever Happened?,0.0
+categorical__track_name_What I Got,0.0
+categorical__track_name_What Would It Take,0.0
+categorical__track_name_What's New Scooby-Doo?,0.0
+categorical__track_name_Whatever It Takes,0.0
+categorical__track_name_When I Come Around,0.0
+categorical__track_name_When I'm Sixty Four - Remastered 2009,0.0
+categorical__track_name_When The Sun Goes Down,0.0
+categorical__track_name_When You Were Young,0.0
+categorical__track_name_Where Are Ü Now (with Justin Bieber),0.0
+categorical__track_name_Where Do You Go To (My Lovely) - Re-Recorded,0.0
+categorical__track_name_Where I Belong (feat. We The Kings),0.0
+categorical__track_name_Where Is My Mind? - Remastered,0.0
+categorical__track_name_While My Guitar Gently Weeps - Remastered 2009,0.0
+categorical__track_name_Who Are You,0.0
+categorical__track_name_Who Knows Where The Time Goes?,0.0
+categorical__track_name_Who Made Who,0.0
+categorical__track_name_Who Says,0.0
+categorical__track_name_Who You Love (feat. Katy Perry),0.0
+categorical__track_name_Why,0.0
+categorical__track_name_Why Are Sundays So Depressing,0.0
+categorical__track_name_Why Don't You Get A Job,0.0
+categorical__track_name_Why Georgia,0.0
+categorical__track_name_Why You No Love Me,0.0
+categorical__track_name_Why'd You Only Call Me When You're High?,0.0
+categorical__track_name_Wild Horses - 2009 Mix,0.0
+categorical__artists_Bryan Adams,0.0
+categorical__track_name_Wild World,0.0
+categorical__track_name_Wildest Dreams,0.0
+categorical__track_name_Wind Song,0.0
+categorical__track_name_Wish You Were Here,0.0
+categorical__track_name_Wishlist,0.0
+categorical__track_name_With A Little Help From My Friends - Remastered 2009,0.0
+categorical__track_name_Within You Without You - Remastered 2009,0.0
+categorical__track_name_Without Me,0.0
+categorical__track_name_Without You (feat. Sandro Cavazza),0.0
+categorical__track_name_Without You (feat. Usher),0.0
+categorical__track_name_Without You - Remastered 2010,0.0
+categorical__track_name_Won't Get Fooled Again - Original Album Version,0.0
+categorical__track_name_Wonderful Tonight,0.0
+categorical__track_name_Wonderwall - Remastered,0.0
+categorical__track_name_Words Of Love,0.0
+categorical__track_name_Work Song,0.0
+categorical__track_name_Worth It (feat. Kid Ink),0.0
+categorical__track_name_Would That I,0.0
+categorical__track_name_Wouldn't It Be Nice - Remastered 2000 / Stereo Mix,0.0
+categorical__track_name_Wrecked,0.0
+categorical__track_name_XO,0.0
+"categorical__track_name_Y, ¿Si Fuera Ella? - + Es +",0.0
+categorical__track_name_Yellow Submarine - Remastered 2009,0.0
+categorical__track_name_Yesterday - Remastered 2009,0.0
+categorical__track_name_Yo No Soy Celoso,0.0
+categorical__track_name_Yo Perreo Sola,0.0
+categorical__track_name_Yo Quería,0.0
+categorical__track_name_Yo Voy (feat. Daddy Yankee),0.0
+categorical__track_name_Yonaguni,0.0
+categorical__track_name_You And Me,0.0
+categorical__track_name_You Are the Right One,0.0
+categorical__track_name_You Can't Always Get What You Want,0.0
+categorical__track_name_You Know You Like It,0.0
+categorical__track_name_You Make Me Feel (Mighty Real),0.0
+categorical__track_name_You May Be Right,0.0
+categorical__track_name_You Never Can Tell,0.0
+categorical__track_name_You Never Give Me Your Money - Remastered 2009,0.0
+categorical__track_name_You Only Live Once,0.0
+categorical__track_name_You Really Got Me - Remastered,0.0
+categorical__track_name_You Sexy Thing,0.0
+categorical__track_name_You Shook Me All Night Long,0.0
+"categorical__track_name_You Should Be Dancing - Edit / From ""Saturday Night Fever"" Soundtrack",0.0
+categorical__track_name_You Talk Way Too Much,0.0
+categorical__track_name_You to Me Are Everything,0.0
+categorical__track_name_You're Beautiful,0.0
+categorical__track_name_You're Going To Lose That Girl - Remastered 2009,0.0
+"categorical__track_name_You're Gonna Go Far, Kid",0.0
+categorical__track_name_You're Gonna Live Forever in Me,0.0
+categorical__track_name_You've Got To Hide Your Love Away - Remastered 2009,0.0
+categorical__track_name_Young Folks,0.0
+"categorical__track_name_Young Lady, You're Scaring Me",0.0
+categorical__track_name_Young Lust,0.0
+"categorical__track_name_Young, Wild & Free (feat. Bruno Mars)",0.0
+categorical__track_name_Younger - Kygo Remix,0.0
+categorical__track_name_Your Body Is a Wonderland,0.0
+categorical__track_name_Your Man,0.0
+categorical__track_name_Your Mother Should Know - Remastered 2009,0.0
+categorical__artists_Bryce Fox,0.0
+categorical__track_name_Your Song,0.0
+categorical__track_name_Your Song - Remastered,0.0
+categorical__track_name_Your Touch,0.0
+categorical__track_name_Zitronen Garten,0.0
+categorical__track_name_all the good girls go to hell,0.0
+categorical__track_name_august,0.0
+categorical__track_name_bad guy,0.0
+"categorical__track_name_break up with your girlfriend, i'm bored",0.0
+categorical__track_name_everything i wanted,0.0
+categorical__track_name_much loved,0.0
+categorical__track_name_the dark side,0.0
+categorical__track_name_wish you were gay,0.0
+categorical__track_name_you should see me in a crown,0.0
+categorical__track_name_¿Cómo Fue?,0.0
+categorical__artists_Buddy Holly,0.0
+categorical__artists_Buffalo Springfield,0.0
+categorical__artists_CAN,0.0
+categorical__artists_CNCO,0.0
+categorical__artists_CNCO;Yandel,0.0
+categorical__track_genre_alternative,0.0
+categorical__artists_Calle 13,0.0
+categorical__artists_Calle 13;Totó La Momposina;Susana Baca;Maria Rita,0.0
+categorical__artists_Calvin Harris;Dua Lipa;Valentino Khan,0.0
+categorical__track_genre_brazil,0.0
+categorical__track_genre_breakbeat,0.0
+categorical__artists_Calvin Harris;Example,0.0
+categorical__track_genre_children,0.0
+categorical__artists_Calvin Harris;John Newman,0.0
+categorical__track_genre_classical,0.0
+categorical__track_genre_club,0.0
+categorical__track_genre_comedy,0.0
+categorical__artists_Calvin Harris;Rag'n'Bone Man,0.0
+categorical__artists_Calvin Harris;Rihanna,0.0
+categorical__artists_Calvin Harris;The Weeknd,0.0
+categorical__track_genre_deep-house,0.0
+categorical__artists_Calvin Harris;Tinie Tempah,0.0
+categorical__track_genre_dub,0.0
+categorical__artists_Camille Saint-Saëns;Yo-Yo Ma;Kathryn Stott,0.0
+categorical__artists_Cardi B;Bad Bunny;J Balvin,0.0
+categorical__artists_Carl Perkins,0.0
+categorical__artists_Carlos Cipa,0.0
+categorical__artists_Charles Gounod;Yo-Yo Ma,0.0
+categorical__track_genre_french,0.0
+categorical__artists_Charlie Puth;Selena Gomez,0.0
+categorical__artists_Charly García,0.0
+categorical__artists_Charly García;Pedro Aznar,0.0
+categorical__track_genre_goth,0.0
+categorical__artists_Chema Rivas,0.0
+categorical__artists_Chino & Nacho;Daddy Yankee,0.0
+categorical__artists_Chris Brown;Drake,0.0
+categorical__artists_Chris Stapleton,0.0
+categorical__artists_Christian Kuria,0.0
+categorical__track_genre_honky-tonk,0.0
+categorical__track_genre_house,0.0
+categorical__artists_Christina Perri,0.0
+categorical__artists_Claptone;JAW,0.0
+categorical__track_genre_j-dance,0.0
+categorical__track_genre_j-pop,0.0
+categorical__artists_Clean Bandit;Demi Lovato,0.0
+categorical__artists_Coldplay,0.0
+categorical__artists_Commodores,0.0
+categorical__track_genre_rockabilly,0.0
+categorical__track_genre_salsa,0.0
+categorical__track_genre_show-tunes,0.0
+categorical__artists_Cream,0.0
+categorical__track_genre_ska,0.0
+categorical__track_genre_soul,0.0
+categorical__artists_Cristian,0.0
+categorical__track_genre_study,0.0
+"categorical__artists_Crosby, Stills & Nash",0.0
+"categorical__artists_Crosby, Stills, Nash & Young",0.0
+categorical__artists_Cutting Crew,0.0
+categorical__track_genre_trance,0.0
+categorical__artists_DJ Snake;AlunaGeorge,0.0
+categorical__artists_DJ Snake;J Balvin;Tyga,0.0
+categorical__artists_Danny Ocean,0.0
+categorical__artists_Daughtry,0.0
+categorical__artists_2Pac;Roger;Dr. Dre,0.0
+categorical__artists_David Gilmour,0.0
+categorical__artists_A Great Big World,0.0
+categorical__artists_David Guetta;Afrojack;Bebe Rexha;Nicki Minaj,0.0
+categorical__artists_David Guetta;Sia,0.0
+categorical__artists_David Guetta;Usher,0.0
+categorical__artists_Above & Beyond;anamē;Marty Longstaff,0.0
+categorical__artists_David Kushner,0.0
+categorical__artists_Aerosmith,0.0
+categorical__artists_Afroman,0.0
+categorical__artists_Alejandro Sanz,0.0
+categorical__artists_Alesso;Tove Lo,0.0
+categorical__artists_Alex & Sierra,0.0

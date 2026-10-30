@@ -1,0 +1,185 @@
+
+============================================================
+PLAYLISTPULSE - FINAL PROJECT REPORT
+============================================================
+
+PROJECT
+PlaylistPulse - Spotify Listening Behavior Prediction
+
+============================================================
+1. PROJECT OBJECTIVE
+============================================================
+
+PlaylistPulse is a machine learning project designed to analyze
+Spotify listening behavior and predict expected stream counts.
+
+The project combines Spotify track metadata with listening history
+to create a machine learning dataset.
+
+The main regression target is:
+
+log_stream_count = log(1 + stream_count)
+
+============================================================
+2. DATASETS
+============================================================
+
+Spotify Track Dataset:
+114000 rows
+
+Spotify Listening History:
+149860 rows
+
+Matched Regression Dataset:
+1710 rows
+
+Training samples:
+1368
+
+Testing samples:
+342
+
+The data was matched using Spotify track identifiers.
+
+============================================================
+3. DATA PREPROCESSING
+============================================================
+
+The preprocessing pipeline included:
+
+- Data validation
+- Missing-value handling
+- Duplicate handling
+- Spotify track ID extraction
+- Dataset merging
+- Numerical feature preprocessing
+- Categorical feature encoding
+- Feature scaling where required
+- Train/test splitting
+
+============================================================
+4. MODELS EVALUATED
+============================================================
+
+Classical regression:
+
+- Ordinary Least Squares
+- Manual Gradient Descent
+- Ridge Regression
+- Lasso Regression
+
+Tree and ensemble models:
+
+- Decision Tree
+- Random Forest
+- Gradient Boosting
+
+Cross-validation and one-standard-error model selection
+were also performed.
+
+============================================================
+5. FINAL MODEL
+============================================================
+
+Final selected model:
+
+Lasso Regression
+
+Regularization:
+
+L1 regularization
+
+Alpha:
+
+0.0001
+
+============================================================
+6. FINAL TEST PERFORMANCE
+============================================================
+
+MAE:
+0.679296
+
+RMSE:
+1.018544
+
+R2:
+0.478816
+
+============================================================
+7. MODEL COMPARISON
+============================================================
+
+Lasso Regression
+MAE  = 0.679296
+RMSE = 1.018544
+R2   = 0.478816
+
+Gradient Boosting
+MAE  = 0.927447
+RMSE = 1.115416
+R2   = 0.374963
+
+Random Forest
+MAE  = 0.934842
+RMSE = 1.158535
+R2   = 0.325705
+
+Decision Tree
+MAE  = 0.995756
+RMSE = 1.247293
+R2   = 0.218429
+
+============================================================
+8. MODEL SELECTION
+============================================================
+
+Lasso Regression was selected as the final model because it
+achieved the lowest MAE and RMSE and the highest R2 among the
+final evaluated models.
+
+This indicates that the Lasso model provided the strongest
+generalization performance on the held-out test dataset.
+
+============================================================
+9. EXPLAINABILITY
+============================================================
+
+SHAP explainability was performed during Week 7.
+
+For the Lasso model, SHAP LinearExplainer was used.
+
+The project generated:
+
+- SHAP feature importance
+- SHAP bar plot
+- SHAP summary plot
+- SHAP waterfall plot
+
+These outputs help identify which features have the strongest
+influence on the model predictions.
+
+============================================================
+10. CONCLUSION
+============================================================
+
+PlaylistPulse successfully combines Spotify track metadata and
+listening history into a machine learning pipeline.
+
+Multiple regression and ensemble models were evaluated.
+
+The final selected model is Lasso Regression with alpha 0.0001.
+
+The final held-out test performance is:
+
+MAE  = 0.679296
+RMSE = 1.018544
+R2   = 0.478816
+
+The project also includes model explainability through SHAP,
+final model comparison charts, prediction analysis, residual
+analysis and presentation-ready outputs.
+
+============================================================
+END OF REPORT
+============================================================

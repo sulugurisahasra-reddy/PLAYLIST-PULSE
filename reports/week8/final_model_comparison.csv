@@ -1,0 +1,5 @@
+Model,Week,MAE,RMSE,R2
+Lasso Regression,Week 5 / Week 7,0.679296,1.018544,0.478816
+Gradient Boosting,Week 6,0.927447,1.115416,0.374963
+Random Forest,Week 6,0.934842,1.158535,0.325705
+Decision Tree,Week 6,0.995756,1.247293,0.218429

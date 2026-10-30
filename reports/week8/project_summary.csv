@@ -1,0 +1,11 @@
+Item,Value
+Project,PlaylistPulse
+Primary Task,Spotify listening behavior prediction
+Regression Target,log_stream_count = log(1 + stream_count)
+Final Model,Lasso Regression
+Alpha,0.0001
+MAE,0.679296
+RMSE,1.018544
+R2,0.478816
+Best Model Reason,Lowest MAE and RMSE with highest R2 among final evaluated models
+Explainability,SHAP LinearExplainer and model feature importance
